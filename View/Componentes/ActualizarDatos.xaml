@@ -1,0 +1,34 @@
+﻿<UserControl x:Class="Comfandi_.View.Componentes.ActualizarDatos"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Comfandi_.View.Componentes"
+             Height="588" Width="1024"
+             >
+    <Grid>
+        <!--Definición Fila Identificación Usuario-->
+        <Grid Width="600" Margin="214,19,210,503">
+            <Label Content="Identificación" Style="{StaticResource lb_Login}" Height="Auto" HorizontalAlignment="Left" Width="200"/>
+            <Label Name="lb_Identificacion" Style="{StaticResource lb_Login}" Height="Auto"  HorizontalAlignment="Right" Width="200"/>
+        </Grid>
+        <!--Definición Fila Nombre Usuario-->
+        <Grid Width="600" Margin="214,85,210,437">
+            <Label Content="Nombre" Style="{StaticResource lb_Login}" Height="Auto" HorizontalAlignment="Left"  Width="200"/>
+            <Label Name="lb_NombreUsuario" Style="{StaticResource lb_Login}" Height="Auto"  HorizontalAlignment="Right" Width="200"/>
+        </Grid>
+        <!--Definición Fila Valor Pre Aprobado Usuario-->
+        <Grid Width="600" Margin="214,156,210,366">
+            <Label Content="Dirección" Style="{StaticResource lb_Login}" Height="Auto" HorizontalAlignment="Left"  Width="258"/>
+            <TextBox Name="txt_Direccion" Style="{StaticResource Txt_Login}" FontSize="30" Height="56" Margin="183,0,10,0" Width="Auto"/>
+        </Grid>
+        <Grid Width="600" Margin="214,222,210,300">
+            <Label Content="Teléfono" Style="{StaticResource lb_Login}" Height="Auto" HorizontalAlignment="Left"  Width="258"/>
+            <TextBox Name="txt_Telefono" Style="{StaticResource Txt_Login}" FontSize="30" Height="56" Margin="183,0,10,0" Width="Auto"/>
+        </Grid>
+        <Grid Width="600" Margin="214,288,210,234">
+            <Label Content="Celular" Style="{StaticResource lb_Login}" Height="Auto" HorizontalAlignment="Left"  Width="258"/>
+            <TextBox Name="txt_Celular" Style="{StaticResource Txt_Login}" FontSize="30" Height="56" Margin="183,0,10,0" Width="Auto"/>
+        </Grid>
+    </Grid>
+</UserControl>

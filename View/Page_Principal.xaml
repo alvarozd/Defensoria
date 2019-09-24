@@ -1,0 +1,28 @@
+﻿<Page x:Class="Comfandi_.View.Page_Principal"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Comfandi_.View"
+      Height="588" Width="1024"
+      Title="Page_Principal">
+
+    <Grid>
+        <!--Botón Turnos-->
+        <Button 
+            Width="270" 
+            Height="313"
+            Name="btn_Turnos"
+            BorderThickness="0"
+            Click="btn_Turnos_Click" Margin="160,210,594,70" 
+            />
+        <!--Botón Otros Servicios-->
+        <Button 
+            Width="270" 
+            Height="Auto"
+            Name="btn_Otros_Servicios"
+            BorderThickness="0"
+            Click="btn_Otros_Servicios_Click" Margin="582,210,172,70"
+            />
+    </Grid>
+</Page>

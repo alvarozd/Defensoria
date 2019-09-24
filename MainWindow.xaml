@@ -1,0 +1,17 @@
+﻿<Window x:Class="Comfandi_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Comfandi_"
+        Title="MainWindow" Height="768" Width="1024"
+        xmlns:contr="clr-namespace:Library;assembly=Library"
+        Top="0" Left="0" WindowStyle="None" ResizeMode="NoResize" Loaded="Window_Loaded"
+        >
+    <Grid>
+        <Grid Height="150" Width="1024" VerticalAlignment="Top" >
+            <contr:FlashPlayer  Height="150" Width="1024"  x:Name="AnimaciónSuperior"/>
+        </Grid>
+        <Frame Name="FramePrincipal" NavigationUIVisibility="Hidden" VerticalAlignment="Bottom" Height="588" Width="1024"/>
+    </Grid>
+</Window>

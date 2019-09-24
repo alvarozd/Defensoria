@@ -1,0 +1,53 @@
+﻿<Page x:Class="Comfandi_.View.Page_Servicio_Componente"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Comfandi_.View"
+      xmlns:views="clr-namespace:Comfandi_.View.Componentes"
+      Height="588" Width="1024"
+      xmlns:contr="clr-namespace:Library;assembly=Library"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      Title="Page_Servicio_Componente" Loaded="Page_Loaded">
+
+    <Grid>
+        <contr:FlashPlayer x:Name="AnimaciónEspera" Visibility="Visible" Height="530" Width="660" Margin="214,48,150,10" />
+
+        <!--Botón Volver-->
+        <Button 
+            Style="{StaticResource btn_Template}"
+            x:Name="btn_Volver"
+            Click="btn_Volver_Click"
+            Margin="10,508,779,10" 
+            Visibility="Hidden"
+            >
+            <Image Name="btn_Volver_IMA" Width="131" Height="35" Margin="0,0,0,0"></Image>
+        </Button>
+        <!--Botón Imprimir-->
+        <Button 
+            Style="{StaticResource btn_Template}"
+            x:Name="btn_Imprimir"
+            Click= "btn_Imprimir_Click"
+            Visibility="Hidden"
+            Margin="407,508,382,10" 
+            >
+            <Image Name="btn_Imprimir_IMA" Width="172" Height="44" Margin="0,0,0,0"></Image>
+        </Button>
+        <!--Botón Menú principal-->
+        <Button 
+            Style="{StaticResource btn_Template}"
+            x:Name="btn_MenuPrincipal"
+            Click= "btn_MenuPrincipal_Click"
+            Visibility="Hidden"
+            Margin="779,508,10,10" >
+            <Image Name="btn_MenuPrincipal_IMA" Width="171" Height="56" Margin="0,0,0,0"></Image>
+        </Button>
+        <views:ImprimirCredito x:Name="ImprimirCredito"  Visibility="Hidden" ></views:ImprimirCredito>
+        <views:ImprimirPreliquidacion x:Name="ImprimirPreliquidacion"  Visibility="Hidden" ></views:ImprimirPreliquidacion>
+        <views:ImprimirTarjetaComfandi x:Name="ImprimirTarjetaComfandi"  Visibility="Hidden" ></views:ImprimirTarjetaComfandi>
+        <views:ConsultaPreAprobado x:Name="ConsultaPreAprobado"  Visibility="Hidden" ></views:ConsultaPreAprobado>
+        <views:ConsultaSaldo x:Name="ConsultaSaldo"  Visibility="Hidden" ></views:ConsultaSaldo>
+        <views:ConsultaUltimoPago x:Name="ConsultaUltimoPago"  Visibility="Hidden" ></views:ConsultaUltimoPago>
+        <views:ActualizarDatos x:Name="ActualizarDatos" Visibility="Hidden" ></views:ActualizarDatos>
+    </Grid>
+</Page>

@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="Comfandi_.View.Componentes.ConsultaUltimoPago"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Comfandi_.View.Componentes"
+             Height="588" Width="1024"
+             >
+    <Grid>
+        <!--Definición Fila Identificación Usuario-->
+        <Grid Width="600" Margin="208,154,216,368">
+            <Label Content="Identificación" Style="{StaticResource lb_Login}" Height="Auto" HorizontalAlignment="Left" Width="200"/>
+            <Label Name="lb_Identificacion" Style="{StaticResource lb_Login}" Height="Auto"  HorizontalAlignment="Right" Width="200"/>
+        </Grid>
+        <!--Definición Fila Nombre Usuario-->
+        <Grid Width="600" Margin="208,220,216,302">
+            <Label Content="Nombre" Style="{StaticResource lb_Login}" Height="Auto" HorizontalAlignment="Left"  Width="200"/>
+            <Label Name="lb_NombreUsuario" Style="{StaticResource lb_Login}" Height="Auto"  HorizontalAlignment="Right" Width="200"/>
+        </Grid>
+        <!--Definición Fila último Fecha pago-->
+        <Grid Width="600" Margin="208,286,216,236">
+            <Label Content="Fecha último pago" Style="{StaticResource lb_Login}" Height="Auto" HorizontalAlignment="Left"  Width="258"/>
+            <Label Name="lb_Fecha" Style="{StaticResource lb_Login}" Height="Auto"  HorizontalAlignment="Right" Width="200"/>
+        </Grid>
+        <!--Definición Fila Valor Pre Aprobado Usuario-->
+        <Grid Width="600" Margin="208,352,216,170">
+            <Label Content="Valor Pago" Style="{StaticResource lb_Login}" Height="Auto" HorizontalAlignment="Left"  Width="258"/>
+            <Label Name="lb_Valor" Style="{StaticResource lb_Login}" Height="Auto"  HorizontalAlignment="Right" Width="200"/>
+        </Grid>
+    </Grid>
+</UserControl>
