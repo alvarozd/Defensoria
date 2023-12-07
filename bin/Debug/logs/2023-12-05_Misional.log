@@ -1,0 +1,411 @@
+2023-12-05 08:17:39.9046 INFO INICIANDO APLICACIÓN
+2023-12-05 08:17:40.2327 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 08:17:40.9515 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 08:17:40.9515 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 08:19:38.5069 INFO 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - -TRANSACCIÓN FINALIZADA POR TIEMPO- - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+2023-12-05 08:19:39.2101 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 08:19:39.2101 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 08:19:39.9255 ERROR InsertarDetalleTransaccionAsyncSinEspera
+2023-12-05 08:19:39.9255 INFO Método: InsertarDetalleTransaccion.
+2023-12-05 08:19:39.9255 INFO Información no insertada: id_transaccion: 0, id_tran_vcash: 0, detalle: Tiempo de inactividad cumplido, valor: 0, estado: Transacción cancelada.
+2023-12-05 08:22:57.5084 INFO 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - -TRANSACCIÓN FINALIZADA POR TIEMPO- - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+2023-12-05 08:22:57.5888 ERROR InsertarDetalleTransaccionAsyncSinEspera
+2023-12-05 08:22:57.5888 INFO Método: InsertarDetalleTransaccion.
+2023-12-05 08:22:57.5888 INFO Información no insertada: id_transaccion: 0, id_tran_vcash: 0, detalle: Tiempo de inactividad cumplido, valor: 0, estado: Transacción cancelada.
+2023-12-05 08:22:57.6127 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 08:22:57.6127 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 08:24:21.6674 INFO INICIANDO APLICACIÓN
+2023-12-05 08:24:21.9525 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 08:24:22.4764 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 08:24:22.4764 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 08:26:20.3182 INFO 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - -TRANSACCIÓN FINALIZADA POR TIEMPO- - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+2023-12-05 08:26:20.9919 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 08:26:20.9919 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 08:26:21.0009 ERROR InsertarDetalleTransaccionAsyncSinEspera
+2023-12-05 08:26:21.0009 INFO Método: InsertarDetalleTransaccion.
+2023-12-05 08:26:21.0009 INFO Información no insertada: id_transaccion: 0, id_tran_vcash: 0, detalle: Tiempo de inactividad cumplido, valor: 0, estado: Transacción cancelada.
+2023-12-05 08:30:01.8682 INFO 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - -TRANSACCIÓN FINALIZADA POR TIEMPO- - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+2023-12-05 08:30:01.9274 ERROR InsertarDetalleTransaccionAsyncSinEspera
+2023-12-05 08:30:01.9274 INFO Método: InsertarDetalleTransaccion.
+2023-12-05 08:30:01.9274 INFO Información no insertada: id_transaccion: 0, id_tran_vcash: 0, detalle: Tiempo de inactividad cumplido, valor: 0, estado: Transacción cancelada.
+2023-12-05 08:30:01.9409 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 08:30:01.9409 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 08:49:52.7473 INFO INICIANDO APLICACIÓN
+2023-12-05 08:49:53.4348 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 08:50:08.2390 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 08:50:08.2390 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 08:50:44.8115 INFO INICIANDO APLICACIÓN
+2023-12-05 08:50:45.0303 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 08:50:52.4754 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 08:50:52.4754 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 08:51:44.1046 INFO INICIANDO APLICACIÓN
+2023-12-05 08:51:44.5072 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 08:51:45.1545 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 08:51:45.1545 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 08:56:22.0123 INFO INICIANDO APLICACIÓN
+2023-12-05 08:56:22.2945 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 08:56:24.4233 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 08:56:24.4233 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 09:00:33.4187 INFO INICIANDO APLICACIÓN
+2023-12-05 09:00:33.6374 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 09:00:36.8240 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 09:00:36.8240 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 09:08:39.4163 INFO INICIANDO APLICACIÓN
+2023-12-05 09:08:39.6620 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 09:08:40.2984 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 09:08:40.2984 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 09:12:39.1556 INFO INICIANDO APLICACIÓN
+2023-12-05 09:12:39.3569 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 09:12:40.2240 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 09:12:40.2240 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 09:15:00.2259 INFO INICIANDO APLICACIÓN
+2023-12-05 09:15:00.4937 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 09:15:01.1605 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 09:15:01.1605 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 09:32:16.9073 INFO INICIANDO APLICACIÓN
+2023-12-05 09:32:17.2294 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 09:32:17.8412 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 09:32:17.8422 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 09:33:23.7374 INFO INICIANDO APLICACIÓN
+2023-12-05 09:33:23.9406 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 09:33:24.7233 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 09:33:24.7233 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 09:40:42.6509 INFO INICIANDO APLICACIÓN
+2023-12-05 09:40:42.8651 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 09:40:43.3917 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 09:40:43.3917 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 09:57:26.7557 INFO INICIANDO APLICACIÓN
+2023-12-05 09:57:27.0456 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 09:57:27.5980 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 09:57:27.5980 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 09:58:08.0454 INFO INICIANDO APLICACIÓN
+2023-12-05 09:58:08.3388 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 09:58:08.9150 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 09:58:08.9150 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 10:00:50.8555 INFO INICIANDO APLICACIÓN
+2023-12-05 10:00:51.0856 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 10:00:51.7508 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 10:00:51.7508 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 10:02:17.0686 INFO INICIANDO APLICACIÓN
+2023-12-05 10:02:17.3704 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 10:02:18.0880 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 10:02:18.0880 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 10:02:23.2669 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 10:02:23.2669 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 10:31:47.8904 INFO INICIANDO APLICACIÓN
+2023-12-05 10:31:48.1016 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 10:31:48.6425 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 10:31:48.6425 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 10:32:08.6699 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 10:32:08.6699 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 10:32:12.4746 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 10:32:12.4746 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 10:32:13.7943 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 10:32:13.7953 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 10:34:12.0726 INFO INICIANDO APLICACIÓN
+2023-12-05 10:34:12.3388 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 10:34:12.9584 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 10:34:12.9584 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 11:22:23.0121 INFO INICIANDO APLICACIÓN
+2023-12-05 11:22:23.4071 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 11:22:24.4659 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 11:22:24.4659 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 11:22:59.4666 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 11:22:59.4676 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 11:23:00.6515 ERROR EstablecerImagenes
+2023-12-05 11:24:33.8737 INFO INICIANDO APLICACIÓN
+2023-12-05 11:24:34.1774 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 11:24:34.7538 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 11:24:34.7538 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 11:24:56.3743 INFO INICIANDO APLICACIÓN
+2023-12-05 11:24:56.7278 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 11:24:57.3346 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 11:24:57.3346 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 11:25:16.2720 INFO INICIANDO APLICACIÓN
+2023-12-05 11:25:16.5543 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 11:25:17.1607 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 11:25:17.1607 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 11:25:18.5096 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 11:25:18.5096 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 11:25:42.5393 INFO INICIANDO APLICACIÓN
+2023-12-05 11:25:42.8068 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 11:25:43.3686 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 11:25:43.3686 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 11:26:27.6049 INFO INICIANDO APLICACIÓN
+2023-12-05 11:26:27.9018 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 11:26:28.7154 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 11:26:28.7154 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 11:26:31.0832 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 11:26:31.0832 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 11:27:32.4404 INFO INICIANDO APLICACIÓN
+2023-12-05 11:27:32.7421 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 11:27:33.4313 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 11:27:33.4313 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 11:27:38.0805 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 11:27:38.0805 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 11:27:55.4451 INFO INICIANDO APLICACIÓN
+2023-12-05 11:27:55.6482 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 11:27:56.5299 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 11:27:56.5299 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 11:27:58.4236 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 11:27:58.4236 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 11:29:52.4498 INFO INICIANDO APLICACIÓN
+2023-12-05 11:29:52.7535 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 11:29:53.3495 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 11:29:53.3495 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 11:42:57.4240 INFO INICIANDO APLICACIÓN
+2023-12-05 11:42:57.7066 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 11:42:58.3942 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 11:42:58.3942 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 11:43:39.4731 INFO INICIANDO APLICACIÓN
+2023-12-05 11:43:39.7619 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 11:43:40.4680 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 11:43:40.4680 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 11:48:54.5006 INFO INICIANDO APLICACIÓN
+2023-12-05 11:48:54.7604 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 11:48:55.4078 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 11:48:55.4234 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 11:49:39.0216 INFO INICIANDO APLICACIÓN
+2023-12-05 11:49:39.3142 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 11:49:39.9473 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 11:49:39.9473 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 11:50:14.0845 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 11:50:14.0845 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 11:50:19.0877 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 11:50:19.0877 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 11:53:48.3671 INFO INICIANDO APLICACIÓN
+2023-12-05 11:53:48.6724 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 11:53:49.2891 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 11:53:49.2891 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 11:54:18.8320 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 11:54:18.8320 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 11:59:25.8391 INFO INICIANDO APLICACIÓN
+2023-12-05 11:59:26.0915 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 11:59:26.7273 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 11:59:26.7273 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 12:01:23.5010 INFO INICIANDO APLICACIÓN
+2023-12-05 12:01:23.7882 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 12:01:24.4260 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 12:01:24.4260 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 12:07:32.8898 INFO INICIANDO APLICACIÓN
+2023-12-05 12:07:33.1157 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 12:07:33.9382 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 12:07:33.9382 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 12:10:27.7382 INFO INICIANDO APLICACIÓN
+2023-12-05 12:10:27.9441 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 12:10:28.7136 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 12:10:28.7136 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 12:14:04.8804 INFO INICIANDO APLICACIÓN
+2023-12-05 12:14:05.1013 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 12:14:05.8079 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 12:14:05.8079 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 12:19:08.7793 INFO INICIANDO APLICACIÓN
+2023-12-05 12:19:09.0211 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 12:19:09.7237 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 12:19:09.7237 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 12:23:18.9772 INFO INICIANDO APLICACIÓN
+2023-12-05 12:23:19.3060 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 12:23:20.1105 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 12:23:20.1105 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 12:23:54.5950 INFO INICIANDO APLICACIÓN
+2023-12-05 12:23:54.8128 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 12:23:55.5565 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 12:23:55.5565 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 12:26:24.4707 INFO INICIANDO APLICACIÓN
+2023-12-05 12:26:24.7815 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 12:26:25.5220 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 12:26:25.5220 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 13:56:33.3573 INFO INICIANDO APLICACIÓN
+2023-12-05 13:56:33.6361 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 13:58:12.7669 INFO INICIANDO APLICACIÓN
+2023-12-05 13:58:13.0328 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 13:58:13.7475 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 13:58:13.7485 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 13:58:22.5626 ERROR EstablecerImagenes
+2023-12-05 14:00:39.6627 INFO INICIANDO APLICACIÓN
+2023-12-05 14:00:39.9585 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 14:00:40.5873 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 14:00:40.5873 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 14:00:45.2378 ERROR EstablecerImagenes
+2023-12-05 14:02:41.2442 INFO 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - -TRANSACCIÓN FINALIZADA POR TIEMPO- - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+2023-12-05 14:02:42.1652 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 14:02:42.1652 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 14:02:43.3031 ERROR InsertarDetalleTransaccionAsyncSinEspera
+2023-12-05 14:02:43.3031 INFO Método: InsertarDetalleTransaccion.
+2023-12-05 14:02:43.3031 INFO Información no insertada: id_transaccion: 0, id_tran_vcash: 0, detalle: Tiempo de inactividad cumplido, valor: 0, estado: Transacción cancelada.
+2023-12-05 14:02:45.1530 ERROR EstablecerImagenes
+2023-12-05 14:04:41.1561 INFO 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - -TRANSACCIÓN FINALIZADA POR TIEMPO- - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+2023-12-05 14:04:41.2331 ERROR InsertarDetalleTransaccionAsyncSinEspera
+2023-12-05 14:04:41.2331 INFO Método: InsertarDetalleTransaccion.
+2023-12-05 14:04:41.2331 INFO Información no insertada: id_transaccion: 0, id_tran_vcash: 0, detalle: Tiempo de inactividad cumplido, valor: 0, estado: Transacción cancelada.
+2023-12-05 14:04:41.2521 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 14:04:41.2521 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 14:04:43.5931 ERROR EstablecerImagenes
+2023-12-05 14:09:20.3529 INFO INICIANDO APLICACIÓN
+2023-12-05 14:09:20.6268 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 14:09:21.2174 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 14:09:21.2174 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 14:09:40.4297 INFO INICIANDO APLICACIÓN
+2023-12-05 14:09:40.6925 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 14:09:41.2814 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 14:09:41.2814 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 14:10:14.7854 INFO INICIANDO APLICACIÓN
+2023-12-05 14:10:15.0332 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 14:10:15.8237 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 14:10:15.8237 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 14:10:25.8300 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 14:10:25.8300 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 14:18:16.4484 INFO INICIANDO APLICACIÓN
+2023-12-05 14:18:16.7032 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 14:18:17.2818 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 14:18:17.2818 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 14:19:07.9486 INFO INICIANDO APLICACIÓN
+2023-12-05 14:19:08.1637 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 14:19:09.0741 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 14:19:09.0741 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 14:22:55.1430 INFO INICIANDO APLICACIÓN
+2023-12-05 14:22:55.4249 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 14:22:56.1913 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 14:22:56.1913 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 14:25:04.8918 INFO 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - -TRANSACCIÓN FINALIZADA POR TIEMPO- - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+2023-12-05 14:25:05.7873 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 14:25:05.7873 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 14:25:06.1402 ERROR InsertarDetalleTransaccionAsyncSinEspera
+2023-12-05 14:25:06.1402 INFO Método: InsertarDetalleTransaccion.
+2023-12-05 14:25:06.1402 INFO Información no insertada: id_transaccion: 0, id_tran_vcash: 0, detalle: Tiempo de inactividad cumplido, valor: 0, estado: Transacción cancelada.
+2023-12-05 14:41:50.7291 INFO INICIANDO APLICACIÓN
+2023-12-05 14:41:50.9899 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 14:41:51.6735 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 14:41:51.6735 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 14:53:53.0225 INFO INICIANDO APLICACIÓN
+2023-12-05 14:53:53.2943 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 14:53:53.9619 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 14:53:53.9619 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 14:58:20.1507 INFO INICIANDO APLICACIÓN
+2023-12-05 14:58:20.4305 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 14:58:21.2370 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 14:58:21.2370 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 15:26:46.3345 INFO INICIANDO APLICACIÓN
+2023-12-05 15:26:46.6164 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 15:26:47.3489 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 15:26:47.3489 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 15:28:54.7876 INFO INICIANDO APLICACIÓN
+2023-12-05 15:28:55.0705 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 15:28:55.6911 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 15:28:55.6911 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 15:29:28.6234 INFO INICIANDO APLICACIÓN
+2023-12-05 15:29:28.8872 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 15:29:29.5848 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 15:29:29.5848 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 15:30:42.3249 INFO INICIANDO APLICACIÓN
+2023-12-05 15:30:42.6327 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 15:30:43.3923 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 15:30:43.3923 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 15:31:07.0611 INFO INICIANDO APLICACIÓN
+2023-12-05 15:31:07.3549 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 15:31:08.0345 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 15:31:08.0345 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 15:37:08.9950 INFO INICIANDO APLICACIÓN
+2023-12-05 15:37:09.2988 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 15:37:10.0064 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 15:37:10.0064 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 15:48:56.9346 INFO INICIANDO APLICACIÓN
+2023-12-05 15:48:57.3506 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 15:48:58.0973 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 15:48:58.0973 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 15:52:14.9676 INFO INICIANDO APLICACIÓN
+2023-12-05 15:52:15.4713 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 15:52:16.3308 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 15:52:16.3308 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 15:52:29.3031 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 15:52:29.3031 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 15:52:32.6366 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 15:52:32.6366 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 15:52:37.4267 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 15:52:37.4267 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 15:52:38.0951 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 15:52:38.0951 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 15:55:57.3463 INFO INICIANDO APLICACIÓN
+2023-12-05 15:55:57.6525 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 15:55:58.3961 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 15:55:58.3961 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 15:58:30.3409 INFO INICIANDO APLICACIÓN
+2023-12-05 15:58:30.6265 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 15:58:31.3730 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 15:58:31.3730 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 16:00:38.6513 INFO INICIANDO APLICACIÓN
+2023-12-05 16:00:38.9231 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 16:00:39.6137 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 16:00:39.6137 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 16:02:14.3069 INFO INICIANDO APLICACIÓN
+2023-12-05 16:02:14.5577 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 16:02:15.3123 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 16:02:15.3123 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 16:07:43.6589 INFO 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - -TRANSACCIÓN FINALIZADA POR TIEMPO- - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+2023-12-05 16:07:44.6607 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 16:07:44.6607 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 16:07:45.0687 ERROR InsertarDetalleTransaccionAsyncSinEspera
+2023-12-05 16:07:45.0687 INFO Método: InsertarDetalleTransaccion.
+2023-12-05 16:07:45.0687 INFO Información no insertada: id_transaccion: 0, id_tran_vcash: 0, detalle: Tiempo de inactividad cumplido, valor: 0, estado: Transacción cancelada.
+2023-12-05 16:09:43.5244 INFO 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - -TRANSACCIÓN FINALIZADA POR TIEMPO- - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+2023-12-05 16:09:43.5724 ERROR InsertarDetalleTransaccionAsyncSinEspera
+2023-12-05 16:09:43.5724 INFO Método: InsertarDetalleTransaccion.
+2023-12-05 16:09:43.5724 INFO Información no insertada: id_transaccion: 0, id_tran_vcash: 0, detalle: Tiempo de inactividad cumplido, valor: 0, estado: Transacción cancelada.
+2023-12-05 16:09:43.6363 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 16:09:43.6363 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 16:18:34.4059 INFO INICIANDO APLICACIÓN
+2023-12-05 16:18:34.7207 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 16:18:35.4562 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 16:18:35.4562 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 16:20:32.9752 INFO INICIANDO APLICACIÓN
+2023-12-05 16:20:33.3149 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 16:20:33.9925 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 16:20:33.9925 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 16:21:56.9591 INFO INICIANDO APLICACIÓN
+2023-12-05 16:21:57.2109 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 16:21:57.8715 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 16:21:57.8715 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 16:37:43.4357 INFO INICIANDO APLICACIÓN
+2023-12-05 16:37:43.7871 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 16:37:44.4014 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 16:37:44.4014 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 16:39:49.0485 INFO 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - -TRANSACCIÓN FINALIZADA POR TIEMPO- - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+2023-12-05 16:39:49.9032 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 16:39:49.9032 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-05 16:39:50.2400 ERROR InsertarDetalleTransaccionAsyncSinEspera
+2023-12-05 16:39:50.2400 INFO Método: InsertarDetalleTransaccion.
+2023-12-05 16:39:50.2400 INFO Información no insertada: id_transaccion: 0, id_tran_vcash: 0, detalle: Tiempo de inactividad cumplido, valor: 0, estado: Transacción cancelada.
+2023-12-05 17:02:07.0729 INFO INICIANDO APLICACIÓN
+2023-12-05 17:02:07.6061 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-05 17:02:08.5132 INFO MENÚ PRINCIPAL CARGADO
+2023-12-05 17:02:08.5132 INFO Valida si se tiene la base de para poder dar cambio o no

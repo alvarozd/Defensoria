@@ -1,0 +1,48 @@
+﻿<Page x:Class="FacturasEnel.View.MenuEncuesta"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FacturasEnel.View"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      Stylus.IsFlicksEnabled="False"
+      xmlns:views="clr-namespace:FacturasEnel.Teclado"
+      xmlns:Controles="clr-namespace:FacturasEnel.View.Componentes"
+      Loaded="Page_Loaded" 
+      Title="Menú Encuesta">
+
+    <Canvas Margin="0,0,0,0">
+        <Controles:MiniCargando x:Name="MiniCargando" Visibility="Hidden"></Controles:MiniCargando>
+        <Image Tag="1" Name="btnMala" MouseDown="Botones_MouseDown"/>
+        <Image Tag="2" Name="btnRegular" MouseDown="Botones_MouseDown"/>
+        <Image Tag="3" Name="btnBuena" MouseDown="Botones_MouseDown"/>
+        <Image Tag="4" Name="btnFinalizar" MouseDown="Botones_MouseDown"/>
+        <Image Name="ImagenCarita" Visibility="Hidden"/>
+        <Image Name="Finaliza" Visibility="Hidden"/>
+
+        <materialDesign:DialogHost x:Name="ModalErro" IsOpen="false" Margin="0,0,0,0" Visibility="Collapsed">
+            <materialDesign:DialogHost.DialogContent>
+                <StackPanel Height="Auto" Width="Auto" MaxWidth="800">
+                    <TextBlock x:Name="txt_Error_Titulo" FontSize="40" HorizontalAlignment="Center" Margin="0,15,0,0" FontWeight="Bold" 
+                            Foreground="{StaticResource AzulBordeExterior}"
+                            >
+                    </TextBlock>
+                    <TextBlock x:Name="txt_Error_Campos" TextWrapping="Wrap" FontSize="30" Margin="20" Foreground="Gray" HorizontalAlignment="Center">
+                    </TextBlock>
+
+                    <Button 
+                    Name="Btn_AceptoErrores"
+                    Style="{StaticResource btn_Template}"
+                    IsCancel="True"
+                    Command="{x:Static materialDesign:DialogHost.CloseDialogCommand}"
+                    CommandParameter="Sample2Cancel"
+                    HorizontalAlignment="Center"
+                    Margin="20"
+                    Content="Aceptar"
+                    Click="Btn_AceptoErrores_Click">
+                    </Button>
+                </StackPanel>
+            </materialDesign:DialogHost.DialogContent>
+        </materialDesign:DialogHost>
+    </Canvas>
+</Page>

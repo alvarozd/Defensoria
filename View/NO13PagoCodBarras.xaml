@@ -1,0 +1,19 @@
+﻿<Page x:Class="Carulla.View.Page_PagoCodBarras"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Carulla.View"
+      Stylus.IsFlicksEnabled="False"
+      Title="Page_PagarPorCB">
+
+    <Canvas x:Name="canvas" Margin="0,0,0,0" Height="768" Width="1366">
+        <Label Name="LblValorPagar" />
+        <Label Name="LblConvenio" />
+        <Label Name="LblReferencia" />
+        <Label Name="LblValorIngresado" />
+        <Label Name="LblCambio" />
+        <Image Name="btnAyuda" Tag="Ayuda" MouseDown="Botones_MouseDown"/>
+        <Image Name="btnCancelar" Tag="Cancelar" MouseDown="Botones_MouseDown" />
+    </Canvas>
+</Page>

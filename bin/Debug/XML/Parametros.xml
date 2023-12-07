@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Parametros xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <HoraInicioOperacion xmlns="http://tempuri.org/">08:00</HoraInicioOperacion>
+  <HoraFinOperacion xmlns="http://tempuri.org/">20:30</HoraFinOperacion>
+  <ValorMaximo xmlns="http://tempuri.org/">1500000</ValorMaximo>
+  <ValorMinimo xmlns="http://tempuri.org/">100</ValorMinimo>
+  <TimeOutInactividadPantallas xmlns="http://tempuri.org/">40</TimeOutInactividadPantallas>
+  <TimeOutActivacionPinPad xmlns="http://tempuri.org/">15</TimeOutActivacionPinPad>
+  <TimeOutInactividadBotonesOcultos xmlns="http://tempuri.org/">5</TimeOutInactividadBotonesOcultos>
+  <TimeOutInactividadVirtualCash xmlns="http://tempuri.org/">60</TimeOutInactividadVirtualCash>
+  <TimeOutVerificacionHorarios xmlns="http://tempuri.org/">60</TimeOutVerificacionHorarios>
+  <ClickBotonOculto xmlns="http://tempuri.org/">10</ClickBotonOculto>
+  <CadenaConexionVirtualCash xmlns="http://tempuri.org/" />
+  <PuertoCOMVirtualCash xmlns="http://tempuri.org/">COM14</PuertoCOMVirtualCash>
+  <TimeOutLiberacionMemoria xmlns="http://tempuri.org/">60</TimeOutLiberacionMemoria>
+  <TituloReciboPago xmlns="http://tempuri.org/">COMPROBANTE DE TRANSACCIÓN</TituloReciboPago>
+  <MensajeTransaccionExitosa xmlns="http://tempuri.org/">TRANSACCIÓN EXITOSA</MensajeTransaccionExitosa>
+  <MensajeTransaccionFallida xmlns="http://tempuri.org/">TRANSACCIÓN FALLIDA</MensajeTransaccionFallida>
+  <MensajeTransaccionCancelada xmlns="http://tempuri.org/">TRANSACCIÓN CANCELADA</MensajeTransaccionCancelada>
+  <FooterRecibo01 xmlns="http://tempuri.org/">El pago no se aplica a una compra especifica sino a su deuda total</FooterRecibo01>
+  <FooterRecibo02 xmlns="http://tempuri.org/">VERIFIQUE QUE SU PAGO SEA IGUAL AL IMPORTE DE MAQUINA REGISTRADORA</FooterRecibo02>
+  <FooterRecibo03 xmlns="http://tempuri.org/">ESTE DOCUMENTO NO ES UN TICKET BAJO REGLAMENTO DE COMPROBANTES DE PAGO</FooterRecibo03>
+  <EndPointVCash xmlns="http://tempuri.org/">http://localhost/Azteca/VCashSoapServicesGenerico/VCashService.svc?wsdl</EndPointVCash>
+</Parametros>

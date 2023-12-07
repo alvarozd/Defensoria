@@ -1,0 +1,1014 @@
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\NLog.config
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\FacturasENEL.exe.config
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\FacturasENEL.exe
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\FacturasENEL.pdb
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\BusinessEnel.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\InputSimulator.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\MaterialDesignColors.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Microsoft.Extensions.Options.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Remotion.Linq.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Renci.SshNet.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\System.Buffers.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\System.Collections.Immutable.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\System.ComponentModel.Annotations.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\System.Data.SqlClient.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\System.Interactive.Async.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\System.Memory.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\System.Numerics.Vectors.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\VirtualCash.Business.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\VPSservices.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\VSerialComu.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\BnrCtlDotNet40.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\ccTalkLib.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\BNRDevice.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\OPOSAceptador.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\ID003dotnet.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\OPOSPagador.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Combinatorics.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\CommonLogger.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\ID003ProtocolManager.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Newtonsoft.Json.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Microsoft.Extensions.Options.xml
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Remotion.Linq.xml
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Renci.SshNet.xml
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\System.Buffers.xml
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\System.Collections.Immutable.xml
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\System.Interactive.Async.xml
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\System.Memory.xml
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\System.Numerics.Vectors.xml
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\VirtualCash.Business.pdb
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\VirtualCash.Business.dll.config
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\VPSservices.pdb
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\VPSservices.dll.config
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\VSerialComu.pdb
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\ccTalkLib.pdb
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\BNRDevice.pdb
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\OPOSAceptador.pdb
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\ID003dotnet.pdb
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\OPOSPagador.pdb
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\CommonLogger.pdb
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Newtonsoft.Json.xml
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\FacturasENEL.csproj.ResolveComReference.cache
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\Teclado\TecladoAlfa.baml
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\Teclado\TecladoNumerico.baml
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\Teclado\TecladoNumericoLogin.baml
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\MainWindow.g.cs
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\Teclado\TecladoAlfa.g.cs
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\Teclado\TecladoNumerico.g.cs
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\Teclado\TecladoNumericoLogin.g.cs
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\000Cargando.g.cs
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\04ProcesandoPago.g.cs
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\00FueraDeLinea.g.cs
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\07CancelandoTransaccion.g.cs
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\05PagoExitoso.g.cs
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\00IngresoAdmin.g.cs
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\12MenuPagos.g.cs
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\Componentes\EntregandoCambio.g.cs
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\Componentes\FacturaC.g.cs
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\Componentes\FacturaE.g.cs
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\NO07TransaccionCancelada.g.cs
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\11DetallePagoCB.g.cs
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\00Base.g.cs
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\09Ayuda.g.cs
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\Componentes\MiniCargando.g.cs
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\Componentes\Consultando.g.cs
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\MenuPrincipal.g.cs
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\10LeerCodigobarras.g.cs
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\App.g.cs
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\FacturasENEL_Content.g.cs
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\FacturasENEL_MarkupCompile.cache
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\FacturasENEL_MarkupCompile.lref
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\App.baml
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\MainWindow.baml
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\000Cargando.baml
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\04ProcesandoPago.baml
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\00FueraDeLinea.baml
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\07CancelandoTransaccion.baml
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\05PagoExitoso.baml
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\00IngresoAdmin.baml
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\12MenuPagos.baml
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\Componentes\EntregandoCambio.baml
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\Componentes\FacturaC.baml
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\Componentes\FacturaE.baml
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\NO07TransaccionCancelada.baml
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\11DetallePagoCB.baml
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\00Base.baml
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\09Ayuda.baml
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\Componentes\MiniCargando.baml
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\Componentes\Consultando.baml
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\MenuPrincipal.baml
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\View\10LeerCodigobarras.baml
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\FacturasENEL.g.resources
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\Carulla.Properties.Resources.resources
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\FacturasENEL.csproj.GenerateResource.cache
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\FacturasENEL.csproj.CoreCompileInputs.cache
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\FacturasENEL.csproj.CopyComplete
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\FacturasENEL.exe
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\FacturasENEL.pdb
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\ProyectosLimpio\ENEL\VS\bin\Debug\stdole.dll
+D:\ProyectosLimpio\ENEL\VS\obj\Debug\FacturasENEL.csprojAssemblyReference.cache
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\NLog.config
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\FacturasENEL.exe.config
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\FacturasENEL.exe
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\FacturasENEL.pdb
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Microsoft.Extensions.Options.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Remotion.Linq.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Renci.SshNet.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\System.Buffers.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\System.Collections.Immutable.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\System.ComponentModel.Annotations.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\System.Data.SqlClient.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\System.Interactive.Async.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\System.Memory.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\System.Numerics.Vectors.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\VSerialComu.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\BnrCtlDotNet40.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\ccTalkLib.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\BNRDevice.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\OPOSAceptador.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\ID003dotnet.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\OPOSPagador.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Combinatorics.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\CommonLogger.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\ID003ProtocolManager.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\stdole.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Newtonsoft.Json.dll
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Microsoft.Extensions.Options.xml
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Remotion.Linq.xml
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Renci.SshNet.xml
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\System.Buffers.xml
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\System.Collections.Immutable.xml
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\System.Interactive.Async.xml
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\System.Memory.xml
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\System.Numerics.Vectors.xml
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\VirtualCash.Business.pdb
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\VirtualCash.Business.dll.config
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\VPSservices.pdb
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\VPSservices.dll.config
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\VSerialComu.pdb
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\ccTalkLib.pdb
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\BNRDevice.pdb
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\OPOSAceptador.pdb
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\ID003dotnet.pdb
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\OPOSPagador.pdb
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\CommonLogger.pdb
+E:\ProyectosVirtual\ENEL\VS\bin\Debug\Newtonsoft.Json.xml
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\FacturasENEL.csprojResolveAssemblyReference.cache
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\Interop.ShockwaveFlashObjects.dll
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\FacturasENEL.csproj.ResolveComReference.cache
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\Teclado\TecladoAlfa.baml
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\Teclado\TecladoNumerico.baml
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\Teclado\TecladoNumericoLogin.baml
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\MainWindow.g.cs
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\Teclado\TecladoAlfa.g.cs
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\Teclado\TecladoNumerico.g.cs
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\Teclado\TecladoNumericoLogin.g.cs
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\000Cargando.g.cs
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\04ProcesandoPago.g.cs
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\00FueraDeLinea.g.cs
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\07CancelandoTransaccion.g.cs
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\05PagoExitoso.g.cs
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\00IngresoAdmin.g.cs
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\12MenuPagos.g.cs
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\Componentes\EntregandoCambio.g.cs
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\Componentes\FacturaC.g.cs
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\Componentes\FacturaE.g.cs
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\NO07TransaccionCancelada.g.cs
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\11DetallePagoCB.g.cs
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\00Base.g.cs
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\09Ayuda.g.cs
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\Componentes\MiniCargando.g.cs
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\Componentes\Consultando.g.cs
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\MenuPrincipal.g.cs
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\10LeerCodigobarras.g.cs
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\App.g.cs
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\FacturasENEL_Content.g.cs
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\FacturasENEL_MarkupCompile.cache
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\FacturasENEL_MarkupCompile.lref
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\App.baml
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\MainWindow.baml
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\000Cargando.baml
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\04ProcesandoPago.baml
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\00FueraDeLinea.baml
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\07CancelandoTransaccion.baml
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\05PagoExitoso.baml
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\00IngresoAdmin.baml
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\12MenuPagos.baml
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\Componentes\EntregandoCambio.baml
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\Componentes\FacturaC.baml
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\Componentes\FacturaE.baml
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\NO07TransaccionCancelada.baml
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\11DetallePagoCB.baml
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\00Base.baml
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\09Ayuda.baml
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\Componentes\MiniCargando.baml
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\Componentes\Consultando.baml
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\MenuPrincipal.baml
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\View\10LeerCodigobarras.baml
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\FacturasENEL.g.resources
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\Carulla.Properties.Resources.resources
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\FacturasENEL.csproj.GenerateResource.Cache
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\FacturasENEL.csproj.CoreCompileInputs.cache
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\FacturasENEL.exe
+E:\ProyectosVirtual\ENEL\VS\obj\Debug\FacturasENEL.pdb
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\Interop.ShockwaveFlashObjects.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\FacturasENEL.csproj.ResolveComReference.cache
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\Teclado\TecladoAlfa.baml
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\Teclado\TecladoNumerico.baml
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\Teclado\TecladoNumericoLogin.baml
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\MainWindow.g.cs
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\Teclado\TecladoAlfa.g.cs
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\Teclado\TecladoNumerico.g.cs
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\Teclado\TecladoNumericoLogin.g.cs
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\000Cargando.g.cs
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\04ProcesandoPago.g.cs
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\07CancelandoTransaccion.g.cs
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\05PagoExitoso.g.cs
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\12MenuPagos.g.cs
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\Componentes\EntregandoCambio.g.cs
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\Componentes\FacturaC.g.cs
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\Componentes\FacturaE.g.cs
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\NO07TransaccionCancelada.g.cs
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\00Base.g.cs
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\09Ayuda.g.cs
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\Componentes\MiniCargando.g.cs
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\Componentes\Consultando.g.cs
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\10LeerCodigobarras.g.cs
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\App.g.cs
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\FacturasENEL_Content.g.cs
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\FacturasENEL_MarkupCompile.cache
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\FacturasENEL_MarkupCompile.lref
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\FacturasENEL.exe
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\FacturasENEL.pdb
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\NLog.config
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\FacturasENEL.exe.config
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\FacturasENEL.exe
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\FacturasENEL.pdb
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Microsoft.Extensions.Options.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Remotion.Linq.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Renci.SshNet.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\System.Buffers.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\System.Collections.Immutable.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\System.ComponentModel.Annotations.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\System.Data.SqlClient.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\System.Interactive.Async.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\System.Memory.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\System.Numerics.Vectors.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\VPSservices.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\VSerialComu.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\BnrCtlDotNet40.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\ccTalkLib.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\BNRDevice.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\OPOSAceptador.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\ID003dotnet.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\OPOSPagador.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Combinatorics.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\CommonLogger.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\ID003ProtocolManager.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Newtonsoft.Json.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Microsoft.Extensions.Options.xml
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Remotion.Linq.xml
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Renci.SshNet.xml
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\System.Buffers.xml
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\System.Collections.Immutable.xml
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\System.Interactive.Async.xml
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\System.Memory.xml
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\System.Numerics.Vectors.xml
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\VirtualCash.Business.pdb
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\VirtualCash.Business.dll.config
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\VPSservices.pdb
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\VPSservices.dll.config
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\VSerialComu.pdb
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\ccTalkLib.pdb
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\OPOSAceptador.pdb
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\ID003dotnet.pdb
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\OPOSPagador.pdb
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\CommonLogger.pdb
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Newtonsoft.Json.xml
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\App.baml
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\MainWindow.baml
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\000Cargando.baml
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\04ProcesandoPago.baml
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\07CancelandoTransaccion.baml
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\05PagoExitoso.baml
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\12MenuPagos.baml
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\Componentes\EntregandoCambio.baml
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\Componentes\FacturaC.baml
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\Componentes\FacturaE.baml
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\NO07TransaccionCancelada.baml
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\00Base.baml
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\09Ayuda.baml
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\Componentes\MiniCargando.baml
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\Componentes\Consultando.baml
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\10LeerCodigobarras.baml
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\FacturasENEL.g.resources
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\Carulla.Properties.Resources.resources
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\FacturasENEL.csproj.GenerateResource.Cache
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\FacturasENEL.csproj.CoreCompileInputs.cache
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\VirtualCash.Business.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\11DetallePagoFactura.g.cs
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\11DetallePagoFactura.baml
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\FacturasENEL.csprojAssemblyReference.cache
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\FacturasENEL.csproj.CopyComplete
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\20DigitarNroCliente.g.cs
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\20DigitarNroCliente.baml
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\stdole.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\01MenuPrincipal.g.cs
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\01MenuPrincipal.baml
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\08FueraDeLinea.g.cs
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\40IngresoAdmin.g.cs
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\08FueraDeLinea.baml
+E:\ProyectosVirtual\ENEL\VS Pruebas\obj\Debug\View\40IngresoAdmin.baml
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\PdfSharp-WPF.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\PdfSharp.Xps.dll
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\PdfSharp-WPF.xml
+E:\ProyectosVirtual\ENEL\VS Pruebas\bin\Debug\PdfSharp.Xps.xml
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\NLog.config
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\FacturasENEL.exe.config
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\FacturasENEL.exe
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\FacturasENEL.pdb
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Options.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\PdfSharp-WPF.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\PdfSharp.Xps.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Remotion.Linq.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Renci.SshNet.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\System.Buffers.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\System.Collections.Immutable.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\System.ComponentModel.Annotations.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\System.Data.SqlClient.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\System.Interactive.Async.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\System.Memory.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\System.Numerics.Vectors.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\VirtualCash.Business.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\VPSservices.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\BnrCtlDotNet40.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\ccTalkLib.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\BNRDevice.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\OPOSAceptador.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\ID003dotnet.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\OPOSPagador.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Combinatorics.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\ID003ProtocolManager.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\CommonLogger.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\stdole.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Newtonsoft.Json.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Options.xml
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\PdfSharp-WPF.xml
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\PdfSharp.Xps.xml
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Remotion.Linq.xml
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Renci.SshNet.xml
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\System.Buffers.xml
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\System.Collections.Immutable.xml
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\System.Interactive.Async.xml
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\System.Memory.xml
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\System.Numerics.Vectors.xml
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\VirtualCash.Business.pdb
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\VirtualCash.Business.dll.config
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\VPSservices.pdb
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\VPSservices.dll.config
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\ccTalkLib.pdb
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\OPOSAceptador.pdb
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\ID003dotnet.pdb
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\OPOSPagador.pdb
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\CommonLogger.pdb
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\Newtonsoft.Json.xml
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\FacturasENEL.csprojAssemblyReference.cache
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\Interop.ShockwaveFlashObjects.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\FacturasENEL.csproj.ResolveComReference.cache
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\Teclado\TecladoAlfa.baml
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\Teclado\TecladoNumerico.baml
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\Teclado\TecladoNumericoLogin.baml
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\MainWindow.g.cs
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\Teclado\TecladoAlfa.g.cs
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\Teclado\TecladoNumerico.g.cs
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\Teclado\TecladoNumericoLogin.g.cs
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\000Cargando.g.cs
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\04ProcesandoPago.g.cs
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\08FueraDeLinea.g.cs
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\07CancelandoTransaccion.g.cs
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\05PagoExitoso.g.cs
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\40IngresoAdmin.g.cs
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\20DigitarNroCliente.g.cs
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\12MenuPagos.g.cs
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\Componentes\EntregandoCambio.g.cs
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\Componentes\FacturaC.g.cs
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\Componentes\FacturaE.g.cs
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\NO07TransaccionCancelada.g.cs
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\11DetallePagoFactura.g.cs
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\00Base.g.cs
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\09Ayuda.g.cs
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\Componentes\MiniCargando.g.cs
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\Componentes\Consultando.g.cs
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\01MenuPrincipal.g.cs
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\10LeerCodigobarras.g.cs
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\App.g.cs
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\FacturasENEL_Content.g.cs
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\FacturasENEL_MarkupCompile.cache
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\FacturasENEL_MarkupCompile.lref
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\App.baml
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\MainWindow.baml
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\000Cargando.baml
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\04ProcesandoPago.baml
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\08FueraDeLinea.baml
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\07CancelandoTransaccion.baml
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\05PagoExitoso.baml
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\40IngresoAdmin.baml
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\20DigitarNroCliente.baml
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\12MenuPagos.baml
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\Componentes\EntregandoCambio.baml
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\Componentes\FacturaC.baml
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\Componentes\FacturaE.baml
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\NO07TransaccionCancelada.baml
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\11DetallePagoFactura.baml
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\00Base.baml
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\09Ayuda.baml
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\Componentes\MiniCargando.baml
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\Componentes\Consultando.baml
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\01MenuPrincipal.baml
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\10LeerCodigobarras.baml
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\FacturasENEL.g.resources
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\Carulla.Properties.Resources.resources
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\FacturasENEL.csproj.GenerateResource.cache
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\FacturasENEL.csproj.CoreCompileInputs.cache
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\FacturasENEL.csproj.CopyComplete
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\FacturasENEL.exe
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\FacturasENEL.pdb
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\NLog.dll
+E:\ProyectosVirtual\ENEL\VSProduccion\bin\Debug\NLog.xml
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\30OpcionesAdmin.g.cs
+E:\ProyectosVirtual\ENEL\VSProduccion\obj\Debug\View\30OpcionesAdmin.baml
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\FacturasENEL.csprojAssemblyReference.cache
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\FacturasENEL.csproj.ResolveComReference.cache
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\Teclado\TecladoNumerico.baml
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\MainWindow.g.cs
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\Teclado\TecladoNumerico.g.cs
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\000Cargando.g.cs
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\04ProcesandoPago.g.cs
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\08FueraDeLinea.g.cs
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\07CancelandoTransaccion.g.cs
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\05PagoExitoso.g.cs
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\30OpcionesAdmin.g.cs
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\40IngresoAdmin.g.cs
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\20DigitarNroCliente.g.cs
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\12MenuPagos.g.cs
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\Componentes\EntregandoCambio.g.cs
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\11DetallePagoFactura.g.cs
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\00Base.g.cs
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\09Ayuda.g.cs
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\Componentes\MiniCargando.g.cs
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\Componentes\Consultando.g.cs
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\01MenuPrincipal.g.cs
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\10LeerCodigobarras.g.cs
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\App.g.cs
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\FacturasENEL_Content.g.cs
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\FacturasENEL_MarkupCompile.cache
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\FacturasENEL_MarkupCompile.lref
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\FacturasENEL.exe
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\FacturasENEL.pdb
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\NLog.config
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\FacturasENEL.exe.config
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\FacturasENEL.exe
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\FacturasENEL.pdb
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\BusinessEnel.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\InputSimulator.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\MaterialDesignColors.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Options.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\NLog.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Remotion.Linq.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Renci.SshNet.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\System.Buffers.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\System.Collections.Immutable.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\System.ComponentModel.Annotations.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\System.Data.SqlClient.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\System.Interactive.Async.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\System.Memory.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\System.Numerics.Vectors.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\OPOSAceptador.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\ID003dotnet.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\ccTalkLib.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\OPOSPagador.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\BnrCtlDotNet40.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\BNRDevice.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\ID003ProtocolManager.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Combinatorics.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\CommonLogger.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\stdole.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Newtonsoft.Json.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Options.xml
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\NLog.xml
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\PdfSharp-WPF.xml
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\PdfSharp.Xps.xml
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Remotion.Linq.xml
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Renci.SshNet.xml
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\System.Buffers.xml
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\System.Collections.Immutable.xml
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\System.Interactive.Async.xml
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\System.Memory.xml
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\System.Numerics.Vectors.xml
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\VirtualCash.Business.pdb
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\VirtualCash.Business.dll.config
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\VPSservices.pdb
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\VPSservices.dll.config
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\OPOSAceptador.pdb
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\ID003dotnet.pdb
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\ccTalkLib.pdb
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\OPOSPagador.pdb
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\CommonLogger.pdb
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\Newtonsoft.Json.xml
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\App.baml
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\MainWindow.baml
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\000Cargando.baml
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\04ProcesandoPago.baml
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\08FueraDeLinea.baml
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\07CancelandoTransaccion.baml
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\05PagoExitoso.baml
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\30OpcionesAdmin.baml
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\40IngresoAdmin.baml
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\20DigitarNroCliente.baml
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\12MenuPagos.baml
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\Componentes\EntregandoCambio.baml
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\11DetallePagoFactura.baml
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\00Base.baml
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\09Ayuda.baml
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\Componentes\MiniCargando.baml
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\Componentes\Consultando.baml
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\01MenuPrincipal.baml
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\10LeerCodigobarras.baml
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\FacturasENEL.g.resources
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\FacturasENEL.csproj.GenerateResource.cache
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\FacturasENEL.csproj.CoreCompileInputs.cache
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\FacturasENEL.csproj.CopyComplete
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\BusinessEnel.pdb
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\VirtualCash.Business.dll
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\BNRDevice.pdb
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\Teclado\TecladoAlfaNumericoCaracteres.baml
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\Teclado\TecladoAlfaNumericoCaracteres.g.cs
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\Enel.Properties.Resources.resources
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\Componentes\Factura.g.cs
+D:\ProyectosLimpio\ENEL\VSProduccion\obj\Debug\View\Componentes\Factura.baml
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\FacturasEnel.exe.CodeAnalysisLog.xml
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\FacturasEnel.exe.lastcodeanalysissucceeded
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\WinSCP.exe
+D:\ProyectosLimpio\ENEL\VSProduccion\bin\Debug\WinSCPnet.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\NLog.config
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\WinSCP.exe
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\FacturasEnel.exe.config
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\FacturasEnel.exe
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\FacturasEnel.pdb
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\FacturasEnel.exe.CodeAnalysisLog.xml
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\FacturasEnel.exe.lastcodeanalysissucceeded
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\BusinessEnel.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\InputSimulator.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\MaterialDesignColors.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\NLog.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Remotion.Linq.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Renci.SshNet.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\System.Buffers.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\System.Collections.Immutable.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\System.Data.SqlClient.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\System.Interactive.Async.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\System.Memory.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\System.Numerics.Vectors.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\VirtualCash.Business.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\WinSCPnet.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\OPOSAceptador.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\ID003dotnet.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\ccTalkLib.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\OPOSPagador.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\BnrCtlDotNet40.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\BNRDevice.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\ID003ProtocolManager.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Combinatorics.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\CommonLogger.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\stdole.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Newtonsoft.Json.dll
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\BusinessEnel.pdb
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\NLog.xml
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\PdfSharp-WPF.xml
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\PdfSharp.Xps.xml
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Remotion.Linq.xml
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Renci.SshNet.xml
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\System.Buffers.xml
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\System.Collections.Immutable.xml
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\System.Interactive.Async.xml
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\System.Memory.xml
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\System.Numerics.Vectors.xml
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\VirtualCash.Business.pdb
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\VirtualCash.Business.dll.config
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\VPSservices.pdb
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\VPSservices.dll.config
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\OPOSAceptador.pdb
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\ID003dotnet.pdb
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\ccTalkLib.pdb
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\OPOSPagador.pdb
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\BNRDevice.pdb
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\CommonLogger.pdb
+D:\Proyectos\ENEL\VSProduccion\bin\Debug\Newtonsoft.Json.xml
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\FacturasENEL.csprojAssemblyReference.cache
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\FacturasENEL.csproj.ResolveComReference.cache
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\Teclado\TecladoAlfaNumericoCaracteres.baml
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\Teclado\TecladoNumerico.baml
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\MainWindow.g.cs
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\Teclado\TecladoAlfaNumericoCaracteres.g.cs
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\Teclado\TecladoNumerico.g.cs
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\000Cargando.g.cs
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\04ProcesandoPago.g.cs
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\08FueraDeLinea.g.cs
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\07CancelandoTransaccion.g.cs
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\05PagoExitoso.g.cs
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\30OpcionesAdmin.g.cs
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\40IngresoAdmin.g.cs
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\20DigitarNroCliente.g.cs
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\12MenuPagos.g.cs
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\Componentes\EntregandoCambio.g.cs
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\Componentes\Factura.g.cs
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\11DetallePagoFactura.g.cs
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\00Base.g.cs
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\09Ayuda.g.cs
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\Componentes\MiniCargando.g.cs
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\Componentes\Consultando.g.cs
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\01MenuPrincipal.g.cs
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\10LeerCodigobarras.g.cs
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\App.g.cs
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\FacturasEnel_Content.g.cs
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\FacturasEnel_MarkupCompile.cache
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\FacturasEnel_MarkupCompile.lref
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\App.baml
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\MainWindow.baml
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\000Cargando.baml
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\04ProcesandoPago.baml
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\08FueraDeLinea.baml
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\07CancelandoTransaccion.baml
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\05PagoExitoso.baml
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\30OpcionesAdmin.baml
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\40IngresoAdmin.baml
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\20DigitarNroCliente.baml
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\12MenuPagos.baml
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\Componentes\EntregandoCambio.baml
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\Componentes\Factura.baml
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\11DetallePagoFactura.baml
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\00Base.baml
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\09Ayuda.baml
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\Componentes\MiniCargando.baml
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\Componentes\Consultando.baml
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\01MenuPrincipal.baml
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\View\10LeerCodigobarras.baml
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\FacturasEnel.g.resources
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\Enel.Properties.Resources.resources
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\FacturasENEL.csproj.GenerateResource.cache
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\FacturasENEL.csproj.CoreCompileInputs.cache
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\FacturasENEL.csproj.CopyComplete
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\FacturasEnel.exe
+D:\Proyectos\ENEL\VSProduccion\obj\Debug\FacturasEnel.pdb
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\NLog.config
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\WinSCP.exe
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\FacturasEnel.exe.config
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\FacturasEnel.exe
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\FacturasEnel.pdb
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\FacturasEnel.exe.CodeAnalysisLog.xml
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\FacturasEnel.exe.lastcodeanalysissucceeded
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\NLog.dll
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\Remotion.Linq.dll
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\Renci.SshNet.dll
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\System.Buffers.dll
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\System.Collections.Immutable.dll
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\System.Data.SqlClient.dll
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\System.Interactive.Async.dll
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\System.Memory.dll
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\System.Numerics.Vectors.dll
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\WinSCPnet.dll
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\NLog.xml
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\Remotion.Linq.xml
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\Renci.SshNet.xml
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\System.Buffers.xml
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\System.Collections.Immutable.xml
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\System.Interactive.Async.xml
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\System.Memory.xml
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\System.Numerics.Vectors.xml
+D:\Fuentes\BancoAzteca\VSProduccion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\FacturasENEL.csprojAssemblyReference.cache
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\FacturasENEL.csproj.ResolveComReference.cache
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\Teclado\TecladoAlfaNumericoCaracteres.baml
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\Teclado\TecladoNumerico.baml
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\MainWindow.g.cs
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\Teclado\TecladoAlfaNumericoCaracteres.g.cs
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\Teclado\TecladoNumerico.g.cs
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\000Cargando.g.cs
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\100Consultando.g.cs
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\02MenuInicio.g.cs
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\04ProcesandoPago.g.cs
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\08FueraDeLinea.g.cs
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\07CancelandoTransaccion.g.cs
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\05PagoExitoso.g.cs
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\16Pagar.g.cs
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\15MuestraValorPagar.g.cs
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\14DigitarValor.g.cs
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\13ValoresPagar.g.cs
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\14DigitaValorPagar.g.cs
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\50DigitarNroTarjeta.g.cs
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\30OpcionesAdmin.g.cs
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\40IngresoAdmin.g.cs
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\20DigitarNroCliente.g.cs
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\12MenuPagos.g.cs
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\Componentes\EntregandoCambio.g.cs
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\Componentes\Factura.g.cs
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\11DetallePagoFactura.g.cs
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\00Base.g.cs
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\09Ayuda.g.cs
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\Componentes\MiniCargando.g.cs
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\Componentes\Consultando.g.cs
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\01MenuPrincipal.g.cs
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\10LeerCodigobarras.g.cs
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\App.g.cs
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\FacturasEnel_Content.g.cs
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\FacturasEnel_MarkupCompile.cache
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\FacturasEnel_MarkupCompile.lref
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\App.baml
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\MainWindow.baml
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\000Cargando.baml
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\100Consultando.baml
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\02MenuInicio.baml
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\04ProcesandoPago.baml
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\08FueraDeLinea.baml
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\07CancelandoTransaccion.baml
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\05PagoExitoso.baml
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\16Pagar.baml
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\15MuestraValorPagar.baml
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\14DigitarValor.baml
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\13ValoresPagar.baml
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\14DigitaValorPagar.baml
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\50DigitarNroTarjeta.baml
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\30OpcionesAdmin.baml
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\40IngresoAdmin.baml
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\20DigitarNroCliente.baml
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\12MenuPagos.baml
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\Componentes\EntregandoCambio.baml
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\Componentes\Factura.baml
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\11DetallePagoFactura.baml
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\00Base.baml
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\09Ayuda.baml
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\Componentes\MiniCargando.baml
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\Componentes\Consultando.baml
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\01MenuPrincipal.baml
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\View\10LeerCodigobarras.baml
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\FacturasEnel.g.resources
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\Enel.Properties.Resources.resources
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\FacturasENEL.csproj.GenerateResource.cache
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\FacturasENEL.csproj.CoreCompileInputs.cache
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\FacturasENEL.csproj.CopyComplete
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\FacturasEnel.exe
+D:\Fuentes\BancoAzteca\VSProduccion\obj\Debug\FacturasEnel.pdb

@@ -1,0 +1,64 @@
+﻿<Page x:Class="FacturasEnel.View.ValorPagar"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FacturasEnel.View"
+      xmlns:Controles="clr-namespace:FacturasEnel.View.Componentes"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      Stylus.IsFlicksEnabled="False"
+      Title="ValorPagar" Loaded ="Page_Loaded" Unloaded="Page_Unloaded" >
+
+    <Canvas Margin="0,0,0,0" Height="768" Width="1024" >
+
+        <Image x:Name="btn1" Tag="1" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btn2" Tag="2" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btn3" Tag="3" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btn4" Tag="4" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btn5" Tag="5" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btn6" Tag="6" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btn7" Tag="7" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btn8" Tag="8" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btn9" Tag="9" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btn10" Tag="0" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btnBorrar" Tag="Borrar" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btnEditar" Tag="Editar" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btnCancelar" Tag="Cancelar" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btnAceptar" Tag="Aceptar" MouseDown="Botones_MouseDown"/>
+        <Label x:Name="LNumeroCredito" />
+        <Label x:Name="LNumeroProducto" />
+        <Label x:Name="LSaldototal" />
+        <Label x:Name="LValorPagar" Foreground="Red" />
+        <TextBox x:Name="TextOtroValor"  MaxLength="9" Foreground="Black"  Background="#efefef" TextChanged="TextOtroValor_TextChanged"/>
+
+
+
+        <Image Name="Consultando" Visibility="Hidden"/>
+
+        <materialDesign:DialogHost x:Name="Mensajes" IsOpen="false" Margin="0,0,0,0" Visibility="Visible">
+            <materialDesign:DialogHost.DialogContent>
+                <StackPanel Height="Auto" Width="Auto" MaxWidth="1000" MinWidth="700" >
+                    <TextBlock x:Name="txt_Error_Titulo" FontSize="40" HorizontalAlignment="Center" Margin="0,15,0,0" FontWeight="Bold" 
+                               Foreground="{StaticResource AzulBordeExterior}"
+                               >
+                    </TextBlock>
+                    <TextBlock x:Name="txt_Error_Campos" TextWrapping="Wrap" FontSize="30" Margin="20" Foreground="Gray" HorizontalAlignment="Center">
+                    </TextBlock>
+
+                    <Button 
+                        Name="btn_AceptoErrores"
+                        Style="{StaticResource btn_Template}"
+                        IsCancel="True"
+                        Command="{x:Static materialDesign:DialogHost.CloseDialogCommand}"
+                        CommandParameter="Sample2Cancel"
+                        HorizontalAlignment="Center"
+                        Margin="20"
+                        Content="Aceptar"
+                        Click="Btn_AceptoErrores_Click"
+                        >
+                    </Button>
+                </StackPanel>
+            </materialDesign:DialogHost.DialogContent>
+        </materialDesign:DialogHost>
+    </Canvas>
+</Page>

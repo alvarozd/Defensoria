@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ParametrosImpre>
+  <Parametros>
+    <Parametro id_parametro="51" parametro="HoraInicioOperacion" valor="08:00" id_aplicacion="1" descripcion="Hora Inicio de la Operación del Kiosco" />
+    <Parametro id_parametro="52" parametro="HoraFinOperacion" valor="20:30" id_aplicacion="1" descripcion="Hora de Fin de Operación del kiosco" />
+    <Parametro id_parametro="53" parametro="ValorMaximo" valor="1500000" id_aplicacion="1" descripcion="Valor Máximo permitido para pagar en el kiosco" />
+    <Parametro id_parametro="54" parametro="ValorMinimo" valor="100" id_aplicacion="1" descripcion="Valor Mínimo permitido para pagar en el kiosco" />
+    <Parametro id_parametro="55" parametro="TimeOutInactividadPantallas" valor="40" id_aplicacion="1" descripcion="Tiempo en SEGUNDOS de Inactividad en cada pantalla antes de regresar al menú principal." />
+    <Parametro id_parametro="56" parametro="TimeOutActivacionPinPad" valor="15" id_aplicacion="1" descripcion="Tiempo de espera en SEGUNDOS para la activación del PinPad" />
+    <Parametro id_parametro="57" parametro="TimeOutInactividadBotonesOcultos" valor="5" id_aplicacion="1" descripcion="Tiempo de Inactividad en SEGUNDOS para reiniciar el contador de toques en los botones ocultos." />
+    <Parametro id_parametro="58" parametro="TimeOutInactividadVirtualCash" valor="60" id_aplicacion="1" descripcion="Tiempo en SEGUNDOS de espera para la de inserción de dinero en un pago." />
+    <Parametro id_parametro="59" parametro="TimeOutVerificacionHorarios" valor="60" id_aplicacion="1" descripcion="Intervalo en SEGUNDOS en que se valida el horario de atención." />
+    <Parametro id_parametro="60" parametro="ClickBotonOculto" valor="10" id_aplicacion="1" descripcion="Clics sobre un botón oculto necesarios para activar su acción." />
+    <Parametro id_parametro="83" parametro="TimeOutLiberacionMemoria" valor="60" id_aplicacion="1" descripcion="Intervalo liberación de memoria" />
+    <Parametro id_parametro="84" parametro="TituloReciboPago" valor="COMPROBANTE DE TRANSACCIÓN" id_aplicacion="1" descripcion="Este es el título que aparece en el recibo de impresión." />
+    <Parametro id_parametro="85" parametro="MensajeTransaccionExitosa" valor="TRANSACCIÓN EXITOSA" id_aplicacion="1" descripcion="Mensaje de recibo para aquellas transacciones han sido confirmadas como aceptadas por Falabella" />
+    <Parametro id_parametro="86" parametro="MensajeTransaccionFallida" valor="TRANSACCIÓN FALLIDA" id_aplicacion="1" descripcion="Mensaje de recibo para aquellas transacciones que han sido rechazadas por el core Falabella" />
+    <Parametro id_parametro="87" parametro="MensajeTransaccionCancelada" valor="TRANSACCIÓN CANCELADA" id_aplicacion="1" descripcion="Mensaje de recibo para aquellas transacciones que han sido canceladas por el usuario" />
+    <Parametro id_parametro="90" parametro="FooterRecibo01" valor="El pago no se aplica a una compra especifica sino a su deuda total" id_aplicacion="1" descripcion="Mensaje inferior del recibo1" />
+    <Parametro id_parametro="91" parametro="FooterRecibo02" valor="VERIFIQUE QUE SU PAGO SEA IGUAL AL IMPORTE DE MAQUINA REGISTRADORA" id_aplicacion="1" descripcion="Mensaje 2 de la sección inferior del recibo" />
+    <Parametro id_parametro="92" parametro="FooterRecibo03" valor="ESTE DOCUMENTO NO ES UN TICKET BAJO REGLAMENTO DE COMPROBANTES DE PAGO" id_aplicacion="1" descripcion="Mensaje 3 de la sección inferior del recibo" />
+    <Parametro id_parametro="94" parametro="EndPointVCash" valor="http://localhost/Azteca/VCashSoapServicesGenerico/VCashService.svc?wsdl" id_aplicacion="1" descripcion="Url de consulta Virtual Cash" />
+    <Parametro id_parametro="100" parametro="TituloComprobante" valor="COMPROBANTE DE RECAUDO" id_aplicacion="1" descripcion="titulo del comprobante" />
+    <Parametro id_parametro="101" parametro="Corresponsal" valor="KIOSCO RECAUDADOR" id_aplicacion="1" descripcion="Corresponsal" />
+    <Parametro id_parametro="102" parametro="NombreAlmacen" valor="VIRTUAL TECHNOLOGIES" id_aplicacion="1" descripcion="Nombre Almacen del piloto" />
+    <Parametro id_parametro="104" parametro="DireccionAlmacen" valor="Cra 65a # 97 - 87" id_aplicacion="1" descripcion="Direccion VIRTUAL" />
+    <Parametro id_parametro="105" parametro="Titulototalpago" valor="RECIBIDO:" id_aplicacion="1" descripcion="Titulo de total pago" />
+    <Parametro id_parametro="106" parametro="TituloCambio" valor="CAMBIO:" id_aplicacion="1" descripcion="Titulo de cambio" />
+    <Parametro id_parametro="107" parametro="TituloCodigoUnico" valor="C.Unico:   0017153131" id_aplicacion="1" descripcion="Titulo de codigo unico" />
+    <Parametro id_parametro="108" parametro="TituloTerminal" valor="Terminal:   AA0OZ192" id_aplicacion="1" descripcion="Titulo  de Terminal" />
+    <Parametro id_parametro="109" parametro="TituloCodigodelbanco" valor="Cod Bco:  0052" id_aplicacion="1" descripcion="Titulo de Codigo del banco" />
+    <Parametro id_parametro="110" parametro="TituloRecibo" valor="Recibo:" id_aplicacion="1" descripcion="Titulo del recibo" />
+    <Parametro id_parametro="111" parametro="TituloRRN" valor="RRN:" id_aplicacion="1" descripcion="Titulo del RRN" />
+    <Parametro id_parametro="112" parametro="TituloAprobado" valor="Aprob.:" id_aplicacion="1" descripcion="Titulo del Aprobado" />
+    <Parametro id_parametro="113" parametro="TituloRecuado" valor="RECAUDO" id_aplicacion="1" descripcion="Titulo Recuado" />
+    <Parametro id_parametro="114" parametro="TituloCodigoServicio" valor="Cod. Servicio:" id_aplicacion="1" descripcion="Titulo Recuado" />
+    <Parametro id_parametro="115" parametro="TituloFactura" valor="REF. PAGO:" id_aplicacion="1" descripcion="Titulo para factura" />
+    <Parametro id_parametro="116" parametro="TitulopagoFactura" valor="PAGO FACTURA" id_aplicacion="1" descripcion="Titulo para pago factura" />
+    <Parametro id_parametro="117" parametro="TituloTransaccionExitosa" valor="TRANSACCIÓN EXITOSA" id_aplicacion="1" descripcion="Titulo transaccion exitosa" />
+    <Parametro id_parametro="118" parametro="TituloTransaccionDeclinada" valor="TRANSACCIÓN DECLINADA" id_aplicacion="1" descripcion="Titulo transaccion declinada" />
+    <Parametro id_parametro="119" parametro="TFoot1" valor="BANCO AV VILLAS es responsable  por los servicios prestados  por el CB." id_aplicacion="1" descripcion="TFoot1" />
+    <Parametro id_parametro="120" parametro="TFoot2" valor="El CB no puede prestar servicios  financieros por su cuenta." id_aplicacion="1" descripcion="TFoot2" />
+    <Parametro id_parametro="121" parametro="TFoot3" valor="Para reclamos comuníquese al:" id_aplicacion="1" descripcion="TFoot3" />
+    <Parametro id_parametro="122" parametro="TFoot4" valor="018000518000" id_aplicacion="1" descripcion="TFoot4" />
+    <Parametro id_parametro="123" parametro="TFoot5" valor="Conserve esta tirilla como soporte" id_aplicacion="1" descripcion="TFoot5" />
+    <Parametro id_parametro="124" parametro="TituloRechazo" valor="RECHAZO GENERAL" id_aplicacion="1" descripcion="Texto rechazo General" />
+    <Parametro id_parametro="125" parametro="CodUnicoINT" valor="0017153131" id_aplicacion="1" descripcion="Codigo unico de integracion con grupo exito" />
+    <Parametro id_parametro="126" parametro="Moneda" valor="COP" id_aplicacion="1" descripcion="Moneda Colombiana" />
+    <Parametro id_parametro="127" parametro="IdentificacionNegocio" valor="20" id_aplicacion="1" descripcion="Identificacion del negocio" />
+    <Parametro id_parametro="128" parametro="TipoTransaccionServicioPublico" valor="03" id_aplicacion="1" descripcion="Tipo de transaccion servicios publicos" />
+    <Parametro id_parametro="129" parametro="TipoTransaccionPila" valor="07" id_aplicacion="1" descripcion="Tipo de transaccion pilas" />
+    <Parametro id_parametro="130" parametro="TipoMedioPago" valor="06" id_aplicacion="1" descripcion="Valor del tipo de medio de pago en efectivo" />
+    <Parametro id_parametro="131" parametro="IDBANCO" valor="0052" id_aplicacion="1" descripcion="ID del banco para el piloto" />
+    <Parametro id_parametro="132" parametro="IDConvenio" valor="01" id_aplicacion="1" descripcion="Valor del id convenio para la integracion" />
+    <Parametro id_parametro="133" parametro="mail_from" valor="orodriguez@virtual.com.co" id_aplicacion="1" descripcion="Correo remitente de las notificaciones" />
+    <Parametro id_parametro="134" parametro="mail_password" valor="R9rZsZez98*" id_aplicacion="1" descripcion="Contraseña para el envío de correos" />
+    <Parametro id_parametro="135" parametro="mail_server" valor="smartermail.dongee.com" id_aplicacion="1" descripcion="Servidor de envío" />
+    <Parametro id_parametro="136" parametro="mail_port" valor="25" id_aplicacion="1" descripcion="Puerto de envío" />
+    <Parametro id_parametro="137" parametro="mail_ssl" valor="false" id_aplicacion="1" descripcion="Requiere autenticación SSL" />
+    <Parametro id_parametro="138" parametro="AudioMenu0" valor="Cargando, por favor espere!" id_aplicacion="1" descripcion="Audio Menú 00 - Cargando" />
+    <Parametro id_parametro="139" parametro="AudioMenu4" valor="Procesando Pago" id_aplicacion="1" descripcion="Audio Menú 4 - Procesando Pago" />
+    <Parametro id_parametro="140" parametro="AudioMenu5" valor="Pago Exitoso!" id_aplicacion="1" descripcion="" />
+    <Parametro id_parametro="141" parametro="AudioMenu7" valor="Cancelando Transacción" id_aplicacion="1" descripcion="Menú cancelando trasacción" />
+    <Parametro id_parametro="142" parametro="AudioMenu9" valor="Ayuda" id_aplicacion="1" descripcion="Menú ayuda" />
+    <Parametro id_parametro="143" parametro="AudioMenu10" valor="Consulta por código de barras. Acerque el código de barras al lector." id_aplicacion="1" descripcion="Audio menú lectura código de barras" />
+    <Parametro id_parametro="144" parametro="AudioMenu11" valor="Detalle de la factura" id_aplicacion="1" descripcion="Audio menú detalle de la factura" />
+    <Parametro id_parametro="145" parametro="AudioMenu12" valor="Menú pago de factura, inserte el dinero" id_aplicacion="1" descripcion="Audio menú pago factura" />
+    <Parametro id_parametro="146" parametro="AudioMenu20" valor="Digite el número de cliente con el número de verificación" id_aplicacion="1" descripcion="Audio menú digitar código cliente" />
+    <Parametro id_parametro="147" parametro="AudioMenu1" valor="Bienvenido, pague aquí su factura" id_aplicacion="1" descripcion="Audio Menú principal" />
+    <Parametro id_parametro="148" parametro="CodigoIAC" valor="10015" id_aplicacion="1" descripcion="" />
+    <Parametro id_parametro="149" parametro="mail_from_name" valor="Kiosco Recaudo" id_aplicacion="1" descripcion="Nombre de quien envía mensaje" />
+    <Parametro id_parametro="150" parametro="TopeMaxMonedero" valor="540000" id_aplicacion="1" descripcion="Máximo de dinero en monedero. Suma de denominacion x cantidad" />
+    <Parametro id_parametro="151" parametro="TopeMinMonedero" valor="2000" id_aplicacion="1" descripcion="Mínimo de dinero en monedero. Suma de denominacion x cantidad" />
+    <Parametro id_parametro="152" parametro="TopeMaxCashBox" valor="5000000" id_aplicacion="1" descripcion="Dinero máximo en CashBox" />
+    <Parametro id_parametro="153" parametro="TopeMinCashBox" valor="-1" id_aplicacion="1" descripcion="Dinero mínimo en CashBox" />
+    <Parametro id_parametro="154" parametro="TopeMaxDinero" valor="22000000" id_aplicacion="1" descripcion="Dinero en monedero más dinero en billetero" />
+    <Parametro id_parametro="155" parametro="TopeMinDinero" valor="200" id_aplicacion="1" descripcion="Suma dinero en dispositivos" />
+    <Parametro id_parametro="156" parametro="ListaCashLogica" valor="100;200;2000" id_aplicacion="1" descripcion="Denominaciones a validar antes de bloquear el kiosco" />
+    <Parametro id_parametro="157" parametro="ValidarListaCashLogica" valor="true" id_aplicacion="1" descripcion="Usar operador lógico OR o AND para bloquear kiosco con las denominaciones en ListaCashLogica" />
+    <Parametro id_parametro="158" parametro="FTPUser" valor="epgenel" id_aplicacion="1" descripcion="" />
+    <Parametro id_parametro="159" parametro="FTPPass" valor="EE2mil20**" id_aplicacion="1" descripcion="" />
+    <Parametro id_parametro="160" parametro="FTPServer" valor="172.30.8.105" id_aplicacion="1" descripcion="" />
+    <Parametro id_parametro="161" parametro="FTPPort" valor="22" id_aplicacion="1" descripcion="" />
+    <Parametro id_parametro="162" parametro="FTPFolder" valor="ENEL" id_aplicacion="1" descripcion="" />
+  </Parametros>
+</ParametrosImpre>

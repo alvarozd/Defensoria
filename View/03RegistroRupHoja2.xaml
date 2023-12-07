@@ -1,0 +1,51 @@
+﻿<Page x:Class="FacturasEnel.View.RegistroRupHoja2"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FacturasEnel.View"
+      xmlns:Controles="clr-namespace:FacturasEnel.View.Componentes"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      Stylus.IsFlicksEnabled="False"
+      Title="RegistroRupHoja2" Loaded ="Page_Loaded" Unloaded="Page_Unloaded" >
+
+    <Canvas Margin="0,0,0,0" Width="1280" Height="1024"  >
+
+
+        <Image x:Name="Altocontraste" Tag="altocontraste" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="Zoom" Tag="Zoom" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="Silencio" Tag="silencio" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="Ayuda" Tag="Ayuda" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="AyudaDiscapa" Tag="AyudaDiscapa" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="Siguiente" Tag="Sig" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="Atras" Tag="Atras" MouseDown="Botones_MouseDown"/>
+        
+       
+
+
+
+
+
+
+        <MediaElement    Width="1280" Height="600" LoadedBehavior="Manual"   Name="Video" Visibility="Collapsed" Canvas.Left="0" Canvas.Top="0" VerticalAlignment="Top" MediaEnded="Video_MediaEnded"/>
+        <materialDesign:DialogHost x:Name="Mensajes" IsOpen="false" Margin="0,0,0,0" Visibility="Visible">
+            <materialDesign:DialogHost.DialogContent>
+                <StackPanel Height="Auto" Width="Auto" MaxWidth="1000" MinWidth="700" >
+                    <TextBlock x:Name="txt_Error_Titulo" FontSize="40" HorizontalAlignment="Center" Margin="0,15,0,0" FontWeight="Bold" 
+                               Foreground="{StaticResource AzulBordeExterior}"
+                               >
+                    </TextBlock>
+                    <TextBlock x:Name="txt_Error_Campos" TextWrapping="Wrap" FontSize="30" Margin="20" Foreground="Gray" HorizontalAlignment="Center">
+                    </TextBlock>
+
+                </StackPanel>
+            </materialDesign:DialogHost.DialogContent>
+        </materialDesign:DialogHost>
+
+
+        <ComboBox Name="ComboSexo" SelectionChanged="ComboSexo_SelectionChanged" Margin="150,360" Width="300" Foreground="#4F4AE3" FontSize="34"/>
+        <ComboBox Name="ComboDepartamento" SelectionChanged="ComboDepartamento_SelectionChanged"  Margin="150,600" Width="300"  Foreground="#4F4AE3" FontSize="34" DisplayMemberPath="Nombre"  FontWeight="Bold"/>
+        <ComboBox Name="ComboCiudad"  SelectionChanged="ComboMunicipio_SelectionChanged"  Margin="685,600" Width="300"  Foreground="#4F4AE3" FontSize="34" DisplayMemberPath="Nombre"  FontWeight="Bold"/>
+     
+    </Canvas>
+</Page>

@@ -4,7 +4,7 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Media.Imaging;
 
-namespace Comfandi_.Teclado
+namespace FacturasEnel.Teclado
 {
     /// <summary>
     /// Lógica de interacción para tecladoNumerico.xaml
@@ -16,21 +16,24 @@ namespace Comfandi_.Teclado
         CampoPassUsuario
     }
 
-    public partial class TecladoNumericoLogin : UserControl
+    public partial class TecladoNumericoLogOn : UserControl
     {
         private TextBox CampoIdUsuario { get; set; }
         private PasswordBox CampoContraseña { get; set; }
         private TipoDeCampo Campo;
         public Action<string> MostrarMensajeDesdeElTeclado { get; private set; }
+        private string RutaFiles = Environment.CurrentDirectory + "\\";
 
-        public TecladoNumericoLogin()
+        public TecladoNumericoLogOn()
         {
             InitializeComponent();
             EstablecerImagenes();
         }
 
-        private void EstablecerImagenes() {
-            ImagenEliminar.Source = new BitmapImage(new Uri(new FileInfo(Properties.Settings.Default.Ima_AUTENTICACION_btn_Eliminar_Estado_1.ToString()).FullName));
+        private void EstablecerImagenes()
+        {
+            //string ruta = RutaFiles + Properties.Settings.Default.Ima_AUTENTICACION_btn_Eliminar_Estado_1.ToString();
+            //ImagenEliminar.Source = new BitmapImage(new Uri(ruta, UriKind.Absolute));
         }
 
         public void EscribirEnCampo(TextBox campo, Action<string> mostrarMensajeDesdeElTeclado)
@@ -101,15 +104,16 @@ namespace Comfandi_.Teclado
 
         }
 
-
         private void btn_Eliminar_MouseEnter(object sender, System.Windows.Input.MouseEventArgs e)
         {
-            ImagenEliminar.Source = new BitmapImage(new Uri(new FileInfo(Properties.Settings.Default.Ima_AUTENTICACION_btn_Eliminar_Estado_2.ToString()).FullName));
+            //string ruta = RutaFiles + Properties.Settings.Default.Ima_AUTENTICACION_btn_Eliminar_Estado_2.ToString();
+            //ImagenEliminar.Source = new BitmapImage(new Uri(ruta, UriKind.Absolute));
         }
 
         private void btn_Eliminar_MouseLeave(object sender, System.Windows.Input.MouseEventArgs e)
         {
-            ImagenEliminar.Source = new BitmapImage(new Uri(new FileInfo(Properties.Settings.Default.Ima_AUTENTICACION_btn_Eliminar_Estado_1.ToString()).FullName));
+            //string ruta = RutaFiles + Properties.Settings.Default.Ima_AUTENTICACION_btn_Eliminar_Estado_1.ToString();
+            //ImagenEliminar.Source = new BitmapImage(new Uri(ruta, UriKind.Absolute));
         }
     }
 }

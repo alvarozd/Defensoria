@@ -1,0 +1,46 @@
+2023-11-29 12:28:40.2430 INFO INICIANDO APLICACIÓN
+2023-11-29 12:28:40.6180 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-11-29 12:28:41.4703 INFO MENÚ PRINCIPAL CARGADO
+2023-11-29 12:28:41.4703 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-11-29 12:28:44.4790 INFO MENÚ PRINCIPAL CARGADO
+2023-11-29 12:28:44.4790 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-11-29 12:28:48.7147 INFO MENÚ PRINCIPAL CARGADO
+2023-11-29 12:28:48.7276 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-11-29 12:28:51.9330 INFO MENÚ PRINCIPAL CARGADO
+2023-11-29 12:28:51.9350 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-11-29 12:28:53.8099 INFO MENÚ PRINCIPAL CARGADO
+2023-11-29 12:28:53.8119 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-11-29 14:35:37.9154 INFO INICIANDO APLICACIÓN
+2023-11-29 14:35:40.7906 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-11-29 14:35:41.7240 INFO MENÚ PRINCIPAL CARGADO
+2023-11-29 14:35:41.7240 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-11-29 14:42:16.4742 INFO MENÚ PRINCIPAL CARGADO
+2023-11-29 14:42:16.4742 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-11-29 15:09:11.4069 INFO INICIANDO APLICACIÓN
+2023-11-29 15:09:11.6188 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-11-29 15:09:12.2923 INFO MENÚ PRINCIPAL CARGADO
+2023-11-29 15:09:12.2923 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-11-29 15:10:10.4325 INFO MENÚ PRINCIPAL CARGADO
+2023-11-29 15:10:10.4353 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-11-29 15:12:12.1412 INFO 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - -TRANSACCIÓN FINALIZADA POR TIEMPO- - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+2023-11-29 15:12:12.9824 INFO MENÚ PRINCIPAL CARGADO
+2023-11-29 15:12:12.9824 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-11-29 15:12:14.0549 ERROR InsertarDetalleTransaccionAsyncSinEspera
+2023-11-29 15:12:14.0549 INFO Método: InsertarDetalleTransaccion.
+2023-11-29 15:12:14.0549 INFO Información no insertada: id_transaccion: 0, id_tran_vcash: 0, detalle: Tiempo de inactividad cumplido, valor: 0, estado: Transacción cancelada.
+2023-11-29 15:17:59.5151 INFO 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - -TRANSACCIÓN FINALIZADA POR TIEMPO- - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+2023-11-29 15:17:59.5591 ERROR InsertarDetalleTransaccionAsyncSinEspera
+2023-11-29 15:17:59.5741 INFO MENÚ PRINCIPAL CARGADO
+2023-11-29 15:17:59.9148 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-11-29 15:17:59.9148 INFO Método: InsertarDetalleTransaccion.
+2023-11-29 15:17:59.9218 INFO Información no insertada: id_transaccion: 0, id_tran_vcash: 0, detalle: Tiempo de inactividad cumplido, valor: 0, estado: Transacción cancelada.
+2023-11-29 15:29:05.6146 INFO MENÚ PRINCIPAL CARGADO
+2023-11-29 15:29:05.9334 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-11-29 15:42:41.4168 INFO MENÚ PRINCIPAL CARGADO
+2023-11-29 15:42:41.4818 INFO Valida si se tiene la base de para poder dar cambio o no

@@ -1,0 +1,14 @@
+﻿<Page x:Class="FacturasEnel.View.PageCancelandoTransaccion"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FacturasEnel.View"
+      mc:Ignorable="d" 
+      Loaded="Page_Loaded" Stylus.IsFlicksEnabled="False"
+      Title="Page_CancelandoTransaccion">
+
+    <Canvas Margin="0,0,0,0" Height="768" Width="1024">
+        <Label x:Name="Mensaje" Foreground="#8b1e6d" Visibility="Hidden"></Label>
+    </Canvas>
+</Page>

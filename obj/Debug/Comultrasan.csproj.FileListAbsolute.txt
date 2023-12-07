@@ -1,0 +1,995 @@
+D:\Fuentes\FuentesComultrasan\bin\Debug\NLog.config
+D:\Fuentes\FuentesComultrasan\bin\Debug\WinSCP.exe
+D:\Fuentes\FuentesComultrasan\bin\Debug\Comultrasan.exe.config
+D:\Fuentes\FuentesComultrasan\bin\Debug\Comultrasan.exe
+D:\Fuentes\FuentesComultrasan\bin\Debug\Comultrasan.pdb
+D:\Fuentes\FuentesComultrasan\bin\Debug\Comultrasan.exe.CodeAnalysisLog.xml
+D:\Fuentes\FuentesComultrasan\bin\Debug\Comultrasan.exe.lastcodeanalysissucceeded
+D:\Fuentes\FuentesComultrasan\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Fuentes\FuentesComultrasan\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Fuentes\FuentesComultrasan\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Fuentes\FuentesComultrasan\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Fuentes\FuentesComultrasan\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Fuentes\FuentesComultrasan\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Fuentes\FuentesComultrasan\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Fuentes\FuentesComultrasan\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Fuentes\FuentesComultrasan\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Fuentes\FuentesComultrasan\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Fuentes\FuentesComultrasan\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Fuentes\FuentesComultrasan\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Fuentes\FuentesComultrasan\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Fuentes\FuentesComultrasan\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Fuentes\FuentesComultrasan\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Fuentes\FuentesComultrasan\bin\Debug\Newtonsoft.Json.dll
+D:\Fuentes\FuentesComultrasan\bin\Debug\NLog.dll
+D:\Fuentes\FuentesComultrasan\bin\Debug\Remotion.Linq.dll
+D:\Fuentes\FuentesComultrasan\bin\Debug\Renci.SshNet.dll
+D:\Fuentes\FuentesComultrasan\bin\Debug\Syncfusion.Licensing.dll
+D:\Fuentes\FuentesComultrasan\bin\Debug\Syncfusion.Shared.WPF.dll
+D:\Fuentes\FuentesComultrasan\bin\Debug\System.Buffers.dll
+D:\Fuentes\FuentesComultrasan\bin\Debug\System.Collections.Immutable.dll
+D:\Fuentes\FuentesComultrasan\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Fuentes\FuentesComultrasan\bin\Debug\System.Data.SqlClient.dll
+D:\Fuentes\FuentesComultrasan\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Fuentes\FuentesComultrasan\bin\Debug\System.Interactive.Async.dll
+D:\Fuentes\FuentesComultrasan\bin\Debug\System.Memory.dll
+D:\Fuentes\FuentesComultrasan\bin\Debug\System.Numerics.Vectors.dll
+D:\Fuentes\FuentesComultrasan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Fuentes\FuentesComultrasan\bin\Debug\WinSCPnet.dll
+D:\Fuentes\FuentesComultrasan\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\Fuentes\FuentesComultrasan\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Fuentes\FuentesComultrasan\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\Fuentes\FuentesComultrasan\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\Fuentes\FuentesComultrasan\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Fuentes\FuentesComultrasan\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Fuentes\FuentesComultrasan\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Fuentes\FuentesComultrasan\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Fuentes\FuentesComultrasan\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Fuentes\FuentesComultrasan\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Fuentes\FuentesComultrasan\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Fuentes\FuentesComultrasan\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Fuentes\FuentesComultrasan\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Fuentes\FuentesComultrasan\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Fuentes\FuentesComultrasan\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Fuentes\FuentesComultrasan\bin\Debug\Newtonsoft.Json.xml
+D:\Fuentes\FuentesComultrasan\bin\Debug\NLog.xml
+D:\Fuentes\FuentesComultrasan\bin\Debug\Remotion.Linq.xml
+D:\Fuentes\FuentesComultrasan\bin\Debug\Renci.SshNet.xml
+D:\Fuentes\FuentesComultrasan\bin\Debug\Syncfusion.Shared.WPF.xml
+D:\Fuentes\FuentesComultrasan\bin\Debug\System.Buffers.xml
+D:\Fuentes\FuentesComultrasan\bin\Debug\System.Collections.Immutable.xml
+D:\Fuentes\FuentesComultrasan\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Fuentes\FuentesComultrasan\bin\Debug\System.Interactive.Async.xml
+D:\Fuentes\FuentesComultrasan\bin\Debug\System.Memory.xml
+D:\Fuentes\FuentesComultrasan\bin\Debug\System.Numerics.Vectors.xml
+D:\Fuentes\FuentesComultrasan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Fuentes\FuentesComultrasan\obj\Debug\Comultrasan.csproj.AssemblyReference.cache
+D:\Fuentes\FuentesComultrasan\obj\Debug\Comultrasan.csproj.ResolveComReference.cache
+D:\Fuentes\FuentesComultrasan\obj\Debug\Teclado\TecladoAlfaNumericoCaracteres.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\Teclado\TecladoNumerico.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\MainWindow.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\Teclado\TecladoAlfaNumericoCaracteres.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\Teclado\TecladoNumerico.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\000Cargando.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\81Video.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\80SolicitaCredito.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\79Promociones.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\78Consultas.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\77Ayudas.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\75MuestraDatosServicio.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\74DigitaServicioPublico.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\72SeleccionaConvenio.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\73ServiciosPublicos.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\71MuestraDatosPago.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\70PagoDigita.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\69PagoCreditoDigita.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\68ExitosaDesembolso.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\67HaceDesembolso.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\66MuestraDesembolso.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\63PagoExitoso.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\62ValorPagar.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\61MuestraCreditos.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\60PagoCredito.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\02Desembolso.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\45ValidaImpresora.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\31ValidaCodigoBarras.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\30TieneCambio.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\19MenuTimeOUT.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\18Encuesta.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\17MenuImpresion.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\200ConsultandoPago.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\100Consultando.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\04ProcesandoPago.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\08FueraDeLinea.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\07CancelandoTransaccion.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\05PagoExitoso.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\16Pagar.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\15MuestraValorPagar.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\13ValoresPagar.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\14DigitaValorPagar.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\50DigitarNroTarjeta.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\30OpcionesAdmin.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\40IngresoAdmin.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\20DigitarNroCliente.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\12MenuPagos.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\Componentes\EntregandoCambio.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\Componentes\Factura.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\11DetallePagoFactura.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\00Base.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\09Ayuda.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\Componentes\MiniCargando.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\Componentes\Consultando.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\01MenuPrincipal.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\10LeerCodigobarras.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\App.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\Comultrasan_Content.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\Comultrasan_MarkupCompile.cache
+D:\Fuentes\FuentesComultrasan\obj\Debug\Comultrasan_MarkupCompile.lref
+D:\Fuentes\FuentesComultrasan\obj\Debug\App.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\MainWindow.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\000Cargando.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\81Video.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\80SolicitaCredito.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\79Promociones.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\78Consultas.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\77Ayudas.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\75MuestraDatosServicio.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\74DigitaServicioPublico.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\72SeleccionaConvenio.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\73ServiciosPublicos.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\71MuestraDatosPago.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\70PagoDigita.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\69PagoCreditoDigita.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\68ExitosaDesembolso.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\67HaceDesembolso.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\66MuestraDesembolso.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\63PagoExitoso.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\62ValorPagar.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\61MuestraCreditos.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\60PagoCredito.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\02Desembolso.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\45ValidaImpresora.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\31ValidaCodigoBarras.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\30TieneCambio.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\19MenuTimeOUT.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\18Encuesta.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\17MenuImpresion.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\200ConsultandoPago.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\100Consultando.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\04ProcesandoPago.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\08FueraDeLinea.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\07CancelandoTransaccion.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\05PagoExitoso.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\16Pagar.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\15MuestraValorPagar.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\13ValoresPagar.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\14DigitaValorPagar.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\50DigitarNroTarjeta.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\30OpcionesAdmin.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\40IngresoAdmin.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\20DigitarNroCliente.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\12MenuPagos.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\Componentes\EntregandoCambio.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\Componentes\Factura.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\11DetallePagoFactura.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\00Base.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\09Ayuda.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\Componentes\MiniCargando.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\Componentes\Consultando.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\01MenuPrincipal.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\10LeerCodigobarras.baml
+D:\Fuentes\FuentesComultrasan\obj\Debug\Comultrasan.g.resources
+D:\Fuentes\FuentesComultrasan\obj\Debug\Enel.Properties.Resources.resources
+D:\Fuentes\FuentesComultrasan\obj\Debug\Comultrasan.csproj.GenerateResource.cache
+D:\Fuentes\FuentesComultrasan\obj\Debug\Comultrasan.csproj.CoreCompileInputs.cache
+D:\Fuentes\FuentesComultrasan\obj\Debug\Comultrasan.csproj.CopyComplete
+D:\Fuentes\FuentesComultrasan\obj\Debug\Comultrasan.exe
+D:\Fuentes\FuentesComultrasan\obj\Debug\Comultrasan.pdb
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\82SimulaCredito.g.cs
+D:\Fuentes\FuentesComultrasan\obj\Debug\View\82SimulaCredito.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\NLog.config
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\WinSCP.exe
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Comultrasan.exe.config
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Comultrasan.exe
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Comultrasan.pdb
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Comultrasan.exe.CodeAnalysisLog.xml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Comultrasan.exe.lastcodeanalysissucceeded
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\MaterialDesignColors.dll
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Newtonsoft.Json.dll
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\NLog.dll
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Remotion.Linq.dll
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Renci.SshNet.dll
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Syncfusion.Licensing.dll
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Syncfusion.Shared.WPF.dll
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\System.Buffers.dll
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\System.Collections.Immutable.dll
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\System.Data.SqlClient.dll
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\System.Interactive.Async.dll
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\System.Memory.dll
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\System.Numerics.Vectors.dll
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\WinSCPnet.dll
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\MaterialDesignColors.pdb
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Newtonsoft.Json.xml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\NLog.xml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Remotion.Linq.xml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Renci.SshNet.xml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\Syncfusion.Shared.WPF.xml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\System.Buffers.xml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\System.Collections.Immutable.xml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\System.Interactive.Async.xml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\System.Memory.xml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\System.Numerics.Vectors.xml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\Comultrasan.csproj.AssemblyReference.cache
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\Comultrasan.csproj.ResolveComReference.cache
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\Teclado\TecladoAlfaNumericoCaracteres.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\Teclado\TecladoNumerico.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\MainWindow.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\Teclado\TecladoAlfaNumericoCaracteres.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\Teclado\TecladoNumerico.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\000Cargando.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\82SimulaCredito.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\81Video.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\80SolicitaCredito.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\79Promociones.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\78Consultas.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\77Ayudas.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\75MuestraDatosServicio.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\74DigitaServicioPublico.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\72SeleccionaConvenio.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\73ServiciosPublicos.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\71MuestraDatosPago.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\70PagoDigita.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\69PagoCreditoDigita.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\68ExitosaDesembolso.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\67HaceDesembolso.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\66MuestraDesembolso.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\63PagoExitoso.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\62ValorPagar.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\61MuestraCreditos.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\60PagoCredito.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\02Desembolso.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\45ValidaImpresora.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\31ValidaCodigoBarras.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\30TieneCambio.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\19MenuTimeOUT.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\18Encuesta.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\17MenuImpresion.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\200ConsultandoPago.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\100Consultando.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\04ProcesandoPago.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\08FueraDeLinea.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\07CancelandoTransaccion.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\05PagoExitoso.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\16Pagar.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\15MuestraValorPagar.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\13ValoresPagar.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\14DigitaValorPagar.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\50DigitarNroTarjeta.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\30OpcionesAdmin.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\40IngresoAdmin.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\20DigitarNroCliente.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\12MenuPagos.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\Componentes\EntregandoCambio.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\Componentes\Factura.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\11DetallePagoFactura.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\00Base.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\09Ayuda.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\Componentes\MiniCargando.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\Componentes\Consultando.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\01MenuPrincipal.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\10LeerCodigobarras.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\App.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\Comultrasan_Content.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\Comultrasan_MarkupCompile.cache
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\Comultrasan_MarkupCompile.lref
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\App.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\MainWindow.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\000Cargando.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\82SimulaCredito.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\81Video.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\80SolicitaCredito.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\79Promociones.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\78Consultas.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\77Ayudas.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\75MuestraDatosServicio.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\74DigitaServicioPublico.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\72SeleccionaConvenio.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\73ServiciosPublicos.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\71MuestraDatosPago.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\70PagoDigita.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\69PagoCreditoDigita.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\68ExitosaDesembolso.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\67HaceDesembolso.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\66MuestraDesembolso.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\63PagoExitoso.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\62ValorPagar.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\61MuestraCreditos.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\60PagoCredito.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\02Desembolso.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\45ValidaImpresora.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\31ValidaCodigoBarras.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\30TieneCambio.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\19MenuTimeOUT.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\18Encuesta.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\17MenuImpresion.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\200ConsultandoPago.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\100Consultando.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\04ProcesandoPago.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\08FueraDeLinea.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\07CancelandoTransaccion.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\05PagoExitoso.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\16Pagar.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\15MuestraValorPagar.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\13ValoresPagar.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\14DigitaValorPagar.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\50DigitarNroTarjeta.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\30OpcionesAdmin.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\40IngresoAdmin.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\20DigitarNroCliente.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\12MenuPagos.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\Componentes\EntregandoCambio.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\Componentes\Factura.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\11DetallePagoFactura.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\00Base.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\09Ayuda.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\Componentes\MiniCargando.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\Componentes\Consultando.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\01MenuPrincipal.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\View\10LeerCodigobarras.baml
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\Comultrasan.g.resources
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\Enel.Properties.Resources.resources
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\Comultrasan.csproj.GenerateResource.cache
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\Comultrasan.csproj.CoreCompileInputs.cache
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\Comultrasan.csproj.CopyComplete
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\Comultrasan.exe
+D:\Fuentes\FuentesComultrasan\DemoComultrasan\obj\Debug\Comultrasan.pdb
+J:\DemoComultrasan\bin\Debug\NLog.config
+J:\DemoComultrasan\bin\Debug\WinSCP.exe
+J:\DemoComultrasan\bin\Debug\Comultrasan.exe.config
+J:\DemoComultrasan\bin\Debug\Comultrasan.exe
+J:\DemoComultrasan\bin\Debug\Comultrasan.pdb
+J:\DemoComultrasan\bin\Debug\Comultrasan.exe.CodeAnalysisLog.xml
+J:\DemoComultrasan\bin\Debug\Comultrasan.exe.lastcodeanalysissucceeded
+J:\DemoComultrasan\bin\Debug\MaterialDesignColors.dll
+J:\DemoComultrasan\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+J:\DemoComultrasan\bin\Debug\Microsoft.EntityFrameworkCore.dll
+J:\DemoComultrasan\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+J:\DemoComultrasan\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+J:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+J:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+J:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+J:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+J:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Configuration.dll
+J:\DemoComultrasan\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+J:\DemoComultrasan\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+J:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+J:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Logging.dll
+J:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Options.dll
+J:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Primitives.dll
+J:\DemoComultrasan\bin\Debug\Newtonsoft.Json.dll
+J:\DemoComultrasan\bin\Debug\NLog.dll
+J:\DemoComultrasan\bin\Debug\Remotion.Linq.dll
+J:\DemoComultrasan\bin\Debug\Renci.SshNet.dll
+J:\DemoComultrasan\bin\Debug\Syncfusion.Licensing.dll
+J:\DemoComultrasan\bin\Debug\Syncfusion.Shared.WPF.dll
+J:\DemoComultrasan\bin\Debug\System.Buffers.dll
+J:\DemoComultrasan\bin\Debug\System.Collections.Immutable.dll
+J:\DemoComultrasan\bin\Debug\System.ComponentModel.Annotations.dll
+J:\DemoComultrasan\bin\Debug\System.Data.SqlClient.dll
+J:\DemoComultrasan\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+J:\DemoComultrasan\bin\Debug\System.Interactive.Async.dll
+J:\DemoComultrasan\bin\Debug\System.Memory.dll
+J:\DemoComultrasan\bin\Debug\System.Numerics.Vectors.dll
+J:\DemoComultrasan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+J:\DemoComultrasan\bin\Debug\WinSCPnet.dll
+J:\DemoComultrasan\bin\Debug\MaterialDesignColors.pdb
+J:\DemoComultrasan\bin\Debug\Microsoft.EntityFrameworkCore.xml
+J:\DemoComultrasan\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+J:\DemoComultrasan\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+J:\DemoComultrasan\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+J:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+J:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+J:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Configuration.xml
+J:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+J:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+J:\DemoComultrasan\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+J:\DemoComultrasan\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+J:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Logging.xml
+J:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+J:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Options.xml
+J:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Primitives.xml
+J:\DemoComultrasan\bin\Debug\Newtonsoft.Json.xml
+J:\DemoComultrasan\bin\Debug\NLog.xml
+J:\DemoComultrasan\bin\Debug\Remotion.Linq.xml
+J:\DemoComultrasan\bin\Debug\Renci.SshNet.xml
+J:\DemoComultrasan\bin\Debug\Syncfusion.Shared.WPF.xml
+J:\DemoComultrasan\bin\Debug\System.Buffers.xml
+J:\DemoComultrasan\bin\Debug\System.Collections.Immutable.xml
+J:\DemoComultrasan\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+J:\DemoComultrasan\bin\Debug\System.Interactive.Async.xml
+J:\DemoComultrasan\bin\Debug\System.Memory.xml
+J:\DemoComultrasan\bin\Debug\System.Numerics.Vectors.xml
+J:\DemoComultrasan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+J:\DemoComultrasan\obj\Debug\Comultrasan.csproj.AssemblyReference.cache
+J:\DemoComultrasan\obj\Debug\Comultrasan.csproj.ResolveComReference.cache
+J:\DemoComultrasan\obj\Debug\Teclado\TecladoAlfaNumericoCaracteres.baml
+J:\DemoComultrasan\obj\Debug\Teclado\TecladoNumerico.baml
+J:\DemoComultrasan\obj\Debug\MainWindow.g.cs
+J:\DemoComultrasan\obj\Debug\Teclado\TecladoAlfaNumericoCaracteres.g.cs
+J:\DemoComultrasan\obj\Debug\Teclado\TecladoNumerico.g.cs
+J:\DemoComultrasan\obj\Debug\View\000Cargando.g.cs
+J:\DemoComultrasan\obj\Debug\View\82SimulaCredito.g.cs
+J:\DemoComultrasan\obj\Debug\View\81Video.g.cs
+J:\DemoComultrasan\obj\Debug\View\80SolicitaCredito.g.cs
+J:\DemoComultrasan\obj\Debug\View\79Promociones.g.cs
+J:\DemoComultrasan\obj\Debug\View\78Consultas.g.cs
+J:\DemoComultrasan\obj\Debug\View\77Ayudas.g.cs
+J:\DemoComultrasan\obj\Debug\View\75MuestraDatosServicio.g.cs
+J:\DemoComultrasan\obj\Debug\View\74DigitaServicioPublico.g.cs
+J:\DemoComultrasan\obj\Debug\View\72SeleccionaConvenio.g.cs
+J:\DemoComultrasan\obj\Debug\View\73ServiciosPublicos.g.cs
+J:\DemoComultrasan\obj\Debug\View\71MuestraDatosPago.g.cs
+J:\DemoComultrasan\obj\Debug\View\70PagoDigita.g.cs
+J:\DemoComultrasan\obj\Debug\View\69PagoCreditoDigita.g.cs
+J:\DemoComultrasan\obj\Debug\View\68ExitosaDesembolso.g.cs
+J:\DemoComultrasan\obj\Debug\View\67HaceDesembolso.g.cs
+J:\DemoComultrasan\obj\Debug\View\66MuestraDesembolso.g.cs
+J:\DemoComultrasan\obj\Debug\View\63PagoExitoso.g.cs
+J:\DemoComultrasan\obj\Debug\View\62ValorPagar.g.cs
+J:\DemoComultrasan\obj\Debug\View\61MuestraCreditos.g.cs
+J:\DemoComultrasan\obj\Debug\View\60PagoCredito.g.cs
+J:\DemoComultrasan\obj\Debug\View\02Desembolso.g.cs
+J:\DemoComultrasan\obj\Debug\View\45ValidaImpresora.g.cs
+J:\DemoComultrasan\obj\Debug\View\31ValidaCodigoBarras.g.cs
+J:\DemoComultrasan\obj\Debug\View\30TieneCambio.g.cs
+J:\DemoComultrasan\obj\Debug\View\19MenuTimeOUT.g.cs
+J:\DemoComultrasan\obj\Debug\View\18Encuesta.g.cs
+J:\DemoComultrasan\obj\Debug\View\17MenuImpresion.g.cs
+J:\DemoComultrasan\obj\Debug\View\200ConsultandoPago.g.cs
+J:\DemoComultrasan\obj\Debug\View\100Consultando.g.cs
+J:\DemoComultrasan\obj\Debug\View\04ProcesandoPago.g.cs
+J:\DemoComultrasan\obj\Debug\View\08FueraDeLinea.g.cs
+J:\DemoComultrasan\obj\Debug\View\07CancelandoTransaccion.g.cs
+J:\DemoComultrasan\obj\Debug\View\05PagoExitoso.g.cs
+J:\DemoComultrasan\obj\Debug\View\16Pagar.g.cs
+J:\DemoComultrasan\obj\Debug\View\15MuestraValorPagar.g.cs
+J:\DemoComultrasan\obj\Debug\View\13ValoresPagar.g.cs
+J:\DemoComultrasan\obj\Debug\View\14DigitaValorPagar.g.cs
+J:\DemoComultrasan\obj\Debug\View\50DigitarNroTarjeta.g.cs
+J:\DemoComultrasan\obj\Debug\View\30OpcionesAdmin.g.cs
+J:\DemoComultrasan\obj\Debug\View\40IngresoAdmin.g.cs
+J:\DemoComultrasan\obj\Debug\View\20DigitarNroCliente.g.cs
+J:\DemoComultrasan\obj\Debug\View\12MenuPagos.g.cs
+J:\DemoComultrasan\obj\Debug\View\Componentes\EntregandoCambio.g.cs
+J:\DemoComultrasan\obj\Debug\View\Componentes\Factura.g.cs
+J:\DemoComultrasan\obj\Debug\View\11DetallePagoFactura.g.cs
+J:\DemoComultrasan\obj\Debug\View\00Base.g.cs
+J:\DemoComultrasan\obj\Debug\View\09Ayuda.g.cs
+J:\DemoComultrasan\obj\Debug\View\Componentes\MiniCargando.g.cs
+J:\DemoComultrasan\obj\Debug\View\Componentes\Consultando.g.cs
+J:\DemoComultrasan\obj\Debug\View\01MenuPrincipal.g.cs
+J:\DemoComultrasan\obj\Debug\View\10LeerCodigobarras.g.cs
+J:\DemoComultrasan\obj\Debug\App.g.cs
+J:\DemoComultrasan\obj\Debug\Comultrasan_Content.g.cs
+J:\DemoComultrasan\obj\Debug\GeneratedInternalTypeHelper.g.cs
+J:\DemoComultrasan\obj\Debug\Comultrasan_MarkupCompile.cache
+J:\DemoComultrasan\obj\Debug\Comultrasan_MarkupCompile.lref
+J:\DemoComultrasan\obj\Debug\App.baml
+J:\DemoComultrasan\obj\Debug\MainWindow.baml
+J:\DemoComultrasan\obj\Debug\View\000Cargando.baml
+J:\DemoComultrasan\obj\Debug\View\82SimulaCredito.baml
+J:\DemoComultrasan\obj\Debug\View\81Video.baml
+J:\DemoComultrasan\obj\Debug\View\80SolicitaCredito.baml
+J:\DemoComultrasan\obj\Debug\View\79Promociones.baml
+J:\DemoComultrasan\obj\Debug\View\78Consultas.baml
+J:\DemoComultrasan\obj\Debug\View\77Ayudas.baml
+J:\DemoComultrasan\obj\Debug\View\75MuestraDatosServicio.baml
+J:\DemoComultrasan\obj\Debug\View\74DigitaServicioPublico.baml
+J:\DemoComultrasan\obj\Debug\View\72SeleccionaConvenio.baml
+J:\DemoComultrasan\obj\Debug\View\73ServiciosPublicos.baml
+J:\DemoComultrasan\obj\Debug\View\71MuestraDatosPago.baml
+J:\DemoComultrasan\obj\Debug\View\70PagoDigita.baml
+J:\DemoComultrasan\obj\Debug\View\69PagoCreditoDigita.baml
+J:\DemoComultrasan\obj\Debug\View\68ExitosaDesembolso.baml
+J:\DemoComultrasan\obj\Debug\View\67HaceDesembolso.baml
+J:\DemoComultrasan\obj\Debug\View\66MuestraDesembolso.baml
+J:\DemoComultrasan\obj\Debug\View\63PagoExitoso.baml
+J:\DemoComultrasan\obj\Debug\View\62ValorPagar.baml
+J:\DemoComultrasan\obj\Debug\View\61MuestraCreditos.baml
+J:\DemoComultrasan\obj\Debug\View\60PagoCredito.baml
+J:\DemoComultrasan\obj\Debug\View\02Desembolso.baml
+J:\DemoComultrasan\obj\Debug\View\45ValidaImpresora.baml
+J:\DemoComultrasan\obj\Debug\View\31ValidaCodigoBarras.baml
+J:\DemoComultrasan\obj\Debug\View\30TieneCambio.baml
+J:\DemoComultrasan\obj\Debug\View\19MenuTimeOUT.baml
+J:\DemoComultrasan\obj\Debug\View\18Encuesta.baml
+J:\DemoComultrasan\obj\Debug\View\17MenuImpresion.baml
+J:\DemoComultrasan\obj\Debug\View\200ConsultandoPago.baml
+J:\DemoComultrasan\obj\Debug\View\100Consultando.baml
+J:\DemoComultrasan\obj\Debug\View\04ProcesandoPago.baml
+J:\DemoComultrasan\obj\Debug\View\08FueraDeLinea.baml
+J:\DemoComultrasan\obj\Debug\View\07CancelandoTransaccion.baml
+J:\DemoComultrasan\obj\Debug\View\05PagoExitoso.baml
+J:\DemoComultrasan\obj\Debug\View\16Pagar.baml
+J:\DemoComultrasan\obj\Debug\View\15MuestraValorPagar.baml
+J:\DemoComultrasan\obj\Debug\View\13ValoresPagar.baml
+J:\DemoComultrasan\obj\Debug\View\14DigitaValorPagar.baml
+J:\DemoComultrasan\obj\Debug\View\50DigitarNroTarjeta.baml
+J:\DemoComultrasan\obj\Debug\View\30OpcionesAdmin.baml
+J:\DemoComultrasan\obj\Debug\View\40IngresoAdmin.baml
+J:\DemoComultrasan\obj\Debug\View\20DigitarNroCliente.baml
+J:\DemoComultrasan\obj\Debug\View\12MenuPagos.baml
+J:\DemoComultrasan\obj\Debug\View\Componentes\EntregandoCambio.baml
+J:\DemoComultrasan\obj\Debug\View\Componentes\Factura.baml
+J:\DemoComultrasan\obj\Debug\View\11DetallePagoFactura.baml
+J:\DemoComultrasan\obj\Debug\View\00Base.baml
+J:\DemoComultrasan\obj\Debug\View\09Ayuda.baml
+J:\DemoComultrasan\obj\Debug\View\Componentes\MiniCargando.baml
+J:\DemoComultrasan\obj\Debug\View\Componentes\Consultando.baml
+J:\DemoComultrasan\obj\Debug\View\01MenuPrincipal.baml
+J:\DemoComultrasan\obj\Debug\View\10LeerCodigobarras.baml
+J:\DemoComultrasan\obj\Debug\Comultrasan.g.resources
+J:\DemoComultrasan\obj\Debug\Enel.Properties.Resources.resources
+J:\DemoComultrasan\obj\Debug\Comultrasan.csproj.GenerateResource.cache
+J:\DemoComultrasan\obj\Debug\Comultrasan.csproj.CoreCompileInputs.cache
+J:\DemoComultrasan\obj\Debug\Comultrasan.csproj.CopyComplete
+J:\DemoComultrasan\obj\Debug\Comultrasan.exe
+J:\DemoComultrasan\obj\Debug\Comultrasan.pdb
+E:\DemoComultrasan\bin\Debug\NLog.config
+E:\DemoComultrasan\bin\Debug\WinSCP.exe
+E:\DemoComultrasan\bin\Debug\Comultrasan.exe.config
+E:\DemoComultrasan\bin\Debug\Comultrasan.exe
+E:\DemoComultrasan\bin\Debug\Comultrasan.pdb
+E:\DemoComultrasan\bin\Debug\Comultrasan.exe.CodeAnalysisLog.xml
+E:\DemoComultrasan\bin\Debug\Comultrasan.exe.lastcodeanalysissucceeded
+E:\DemoComultrasan\bin\Debug\MaterialDesignColors.dll
+E:\DemoComultrasan\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\DemoComultrasan\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\DemoComultrasan\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\DemoComultrasan\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\DemoComultrasan\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\DemoComultrasan\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Options.dll
+E:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\DemoComultrasan\bin\Debug\Newtonsoft.Json.dll
+E:\DemoComultrasan\bin\Debug\NLog.dll
+E:\DemoComultrasan\bin\Debug\Remotion.Linq.dll
+E:\DemoComultrasan\bin\Debug\Renci.SshNet.dll
+E:\DemoComultrasan\bin\Debug\Syncfusion.Licensing.dll
+E:\DemoComultrasan\bin\Debug\Syncfusion.Shared.WPF.dll
+E:\DemoComultrasan\bin\Debug\System.Buffers.dll
+E:\DemoComultrasan\bin\Debug\System.Collections.Immutable.dll
+E:\DemoComultrasan\bin\Debug\System.ComponentModel.Annotations.dll
+E:\DemoComultrasan\bin\Debug\System.Data.SqlClient.dll
+E:\DemoComultrasan\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\DemoComultrasan\bin\Debug\System.Interactive.Async.dll
+E:\DemoComultrasan\bin\Debug\System.Memory.dll
+E:\DemoComultrasan\bin\Debug\System.Numerics.Vectors.dll
+E:\DemoComultrasan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\DemoComultrasan\bin\Debug\WinSCPnet.dll
+E:\DemoComultrasan\bin\Debug\MaterialDesignColors.pdb
+E:\DemoComultrasan\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\DemoComultrasan\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\DemoComultrasan\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\DemoComultrasan\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+E:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\DemoComultrasan\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\DemoComultrasan\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Options.xml
+E:\DemoComultrasan\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\DemoComultrasan\bin\Debug\Newtonsoft.Json.xml
+E:\DemoComultrasan\bin\Debug\NLog.xml
+E:\DemoComultrasan\bin\Debug\Remotion.Linq.xml
+E:\DemoComultrasan\bin\Debug\Renci.SshNet.xml
+E:\DemoComultrasan\bin\Debug\Syncfusion.Shared.WPF.xml
+E:\DemoComultrasan\bin\Debug\System.Buffers.xml
+E:\DemoComultrasan\bin\Debug\System.Collections.Immutable.xml
+E:\DemoComultrasan\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\DemoComultrasan\bin\Debug\System.Interactive.Async.xml
+E:\DemoComultrasan\bin\Debug\System.Memory.xml
+E:\DemoComultrasan\bin\Debug\System.Numerics.Vectors.xml
+E:\DemoComultrasan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\DemoComultrasan\obj\Debug\Comultrasan.csproj.AssemblyReference.cache
+E:\DemoComultrasan\obj\Debug\Comultrasan.csproj.ResolveComReference.cache
+E:\DemoComultrasan\obj\Debug\Teclado\TecladoAlfaNumericoCaracteres.baml
+E:\DemoComultrasan\obj\Debug\Teclado\TecladoNumerico.baml
+E:\DemoComultrasan\obj\Debug\MainWindow.g.cs
+E:\DemoComultrasan\obj\Debug\Teclado\TecladoAlfaNumericoCaracteres.g.cs
+E:\DemoComultrasan\obj\Debug\Teclado\TecladoNumerico.g.cs
+E:\DemoComultrasan\obj\Debug\View\000Cargando.g.cs
+E:\DemoComultrasan\obj\Debug\View\82SimulaCredito.g.cs
+E:\DemoComultrasan\obj\Debug\View\81Video.g.cs
+E:\DemoComultrasan\obj\Debug\View\80SolicitaCredito.g.cs
+E:\DemoComultrasan\obj\Debug\View\79Promociones.g.cs
+E:\DemoComultrasan\obj\Debug\View\78Consultas.g.cs
+E:\DemoComultrasan\obj\Debug\View\77Ayudas.g.cs
+E:\DemoComultrasan\obj\Debug\View\75MuestraDatosServicio.g.cs
+E:\DemoComultrasan\obj\Debug\View\74DigitaServicioPublico.g.cs
+E:\DemoComultrasan\obj\Debug\View\72SeleccionaConvenio.g.cs
+E:\DemoComultrasan\obj\Debug\View\73ServiciosPublicos.g.cs
+E:\DemoComultrasan\obj\Debug\View\71MuestraDatosPago.g.cs
+E:\DemoComultrasan\obj\Debug\View\70PagoDigita.g.cs
+E:\DemoComultrasan\obj\Debug\View\69PagoCreditoDigita.g.cs
+E:\DemoComultrasan\obj\Debug\View\68ExitosaDesembolso.g.cs
+E:\DemoComultrasan\obj\Debug\View\67HaceDesembolso.g.cs
+E:\DemoComultrasan\obj\Debug\View\66MuestraDesembolso.g.cs
+E:\DemoComultrasan\obj\Debug\View\63PagoExitoso.g.cs
+E:\DemoComultrasan\obj\Debug\View\62ValorPagar.g.cs
+E:\DemoComultrasan\obj\Debug\View\61MuestraCreditos.g.cs
+E:\DemoComultrasan\obj\Debug\View\60PagoCredito.g.cs
+E:\DemoComultrasan\obj\Debug\View\45ValidaImpresora.g.cs
+E:\DemoComultrasan\obj\Debug\View\31ValidaCodigoBarras.g.cs
+E:\DemoComultrasan\obj\Debug\View\30TieneCambio.g.cs
+E:\DemoComultrasan\obj\Debug\View\19MenuTimeOUT.g.cs
+E:\DemoComultrasan\obj\Debug\View\18Encuesta.g.cs
+E:\DemoComultrasan\obj\Debug\View\17MenuImpresion.g.cs
+E:\DemoComultrasan\obj\Debug\View\200ConsultandoPago.g.cs
+E:\DemoComultrasan\obj\Debug\View\100Consultando.g.cs
+E:\DemoComultrasan\obj\Debug\View\08FueraDeLinea.g.cs
+E:\DemoComultrasan\obj\Debug\View\07CancelandoTransaccion.g.cs
+E:\DemoComultrasan\obj\Debug\View\05PagoExitoso.g.cs
+E:\DemoComultrasan\obj\Debug\View\16Pagar.g.cs
+E:\DemoComultrasan\obj\Debug\View\15MuestraValorPagar.g.cs
+E:\DemoComultrasan\obj\Debug\View\13ValoresPagar.g.cs
+E:\DemoComultrasan\obj\Debug\View\14DigitaValorPagar.g.cs
+E:\DemoComultrasan\obj\Debug\View\50DigitarNroTarjeta.g.cs
+E:\DemoComultrasan\obj\Debug\View\30OpcionesAdmin.g.cs
+E:\DemoComultrasan\obj\Debug\View\40IngresoAdmin.g.cs
+E:\DemoComultrasan\obj\Debug\View\20DigitarNroCliente.g.cs
+E:\DemoComultrasan\obj\Debug\View\12MenuPagos.g.cs
+E:\DemoComultrasan\obj\Debug\View\Componentes\EntregandoCambio.g.cs
+E:\DemoComultrasan\obj\Debug\View\Componentes\Factura.g.cs
+E:\DemoComultrasan\obj\Debug\View\11DetallePagoFactura.g.cs
+E:\DemoComultrasan\obj\Debug\View\00Base.g.cs
+E:\DemoComultrasan\obj\Debug\View\09Ayuda.g.cs
+E:\DemoComultrasan\obj\Debug\View\Componentes\MiniCargando.g.cs
+E:\DemoComultrasan\obj\Debug\View\Componentes\Consultando.g.cs
+E:\DemoComultrasan\obj\Debug\View\01MenuPrincipal.g.cs
+E:\DemoComultrasan\obj\Debug\View\10LeerCodigobarras.g.cs
+E:\DemoComultrasan\obj\Debug\App.g.cs
+E:\DemoComultrasan\obj\Debug\Comultrasan_Content.g.cs
+E:\DemoComultrasan\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\DemoComultrasan\obj\Debug\Comultrasan_MarkupCompile.cache
+E:\DemoComultrasan\obj\Debug\Comultrasan_MarkupCompile.lref
+E:\DemoComultrasan\obj\Debug\App.baml
+E:\DemoComultrasan\obj\Debug\MainWindow.baml
+E:\DemoComultrasan\obj\Debug\View\000Cargando.baml
+E:\DemoComultrasan\obj\Debug\View\82SimulaCredito.baml
+E:\DemoComultrasan\obj\Debug\View\81Video.baml
+E:\DemoComultrasan\obj\Debug\View\80SolicitaCredito.baml
+E:\DemoComultrasan\obj\Debug\View\79Promociones.baml
+E:\DemoComultrasan\obj\Debug\View\78Consultas.baml
+E:\DemoComultrasan\obj\Debug\View\77Ayudas.baml
+E:\DemoComultrasan\obj\Debug\View\75MuestraDatosServicio.baml
+E:\DemoComultrasan\obj\Debug\View\74DigitaServicioPublico.baml
+E:\DemoComultrasan\obj\Debug\View\72SeleccionaConvenio.baml
+E:\DemoComultrasan\obj\Debug\View\73ServiciosPublicos.baml
+E:\DemoComultrasan\obj\Debug\View\71MuestraDatosPago.baml
+E:\DemoComultrasan\obj\Debug\View\70PagoDigita.baml
+E:\DemoComultrasan\obj\Debug\View\69PagoCreditoDigita.baml
+E:\DemoComultrasan\obj\Debug\View\68ExitosaDesembolso.baml
+E:\DemoComultrasan\obj\Debug\View\67HaceDesembolso.baml
+E:\DemoComultrasan\obj\Debug\View\66MuestraDesembolso.baml
+E:\DemoComultrasan\obj\Debug\View\63PagoExitoso.baml
+E:\DemoComultrasan\obj\Debug\View\62ValorPagar.baml
+E:\DemoComultrasan\obj\Debug\View\61MuestraCreditos.baml
+E:\DemoComultrasan\obj\Debug\View\60PagoCredito.baml
+E:\DemoComultrasan\obj\Debug\View\45ValidaImpresora.baml
+E:\DemoComultrasan\obj\Debug\View\31ValidaCodigoBarras.baml
+E:\DemoComultrasan\obj\Debug\View\30TieneCambio.baml
+E:\DemoComultrasan\obj\Debug\View\19MenuTimeOUT.baml
+E:\DemoComultrasan\obj\Debug\View\18Encuesta.baml
+E:\DemoComultrasan\obj\Debug\View\17MenuImpresion.baml
+E:\DemoComultrasan\obj\Debug\View\200ConsultandoPago.baml
+E:\DemoComultrasan\obj\Debug\View\100Consultando.baml
+E:\DemoComultrasan\obj\Debug\View\08FueraDeLinea.baml
+E:\DemoComultrasan\obj\Debug\View\07CancelandoTransaccion.baml
+E:\DemoComultrasan\obj\Debug\View\05PagoExitoso.baml
+E:\DemoComultrasan\obj\Debug\View\16Pagar.baml
+E:\DemoComultrasan\obj\Debug\View\15MuestraValorPagar.baml
+E:\DemoComultrasan\obj\Debug\View\13ValoresPagar.baml
+E:\DemoComultrasan\obj\Debug\View\14DigitaValorPagar.baml
+E:\DemoComultrasan\obj\Debug\View\50DigitarNroTarjeta.baml
+E:\DemoComultrasan\obj\Debug\View\30OpcionesAdmin.baml
+E:\DemoComultrasan\obj\Debug\View\40IngresoAdmin.baml
+E:\DemoComultrasan\obj\Debug\View\20DigitarNroCliente.baml
+E:\DemoComultrasan\obj\Debug\View\12MenuPagos.baml
+E:\DemoComultrasan\obj\Debug\View\Componentes\EntregandoCambio.baml
+E:\DemoComultrasan\obj\Debug\View\Componentes\Factura.baml
+E:\DemoComultrasan\obj\Debug\View\11DetallePagoFactura.baml
+E:\DemoComultrasan\obj\Debug\View\00Base.baml
+E:\DemoComultrasan\obj\Debug\View\09Ayuda.baml
+E:\DemoComultrasan\obj\Debug\View\Componentes\MiniCargando.baml
+E:\DemoComultrasan\obj\Debug\View\Componentes\Consultando.baml
+E:\DemoComultrasan\obj\Debug\View\01MenuPrincipal.baml
+E:\DemoComultrasan\obj\Debug\View\10LeerCodigobarras.baml
+E:\DemoComultrasan\obj\Debug\Comultrasan.g.resources
+E:\DemoComultrasan\obj\Debug\Enel.Properties.Resources.resources
+E:\DemoComultrasan\obj\Debug\Comultrasan.csproj.GenerateResource.cache
+E:\DemoComultrasan\obj\Debug\Comultrasan.csproj.CoreCompileInputs.cache
+E:\DemoComultrasan\obj\Debug\Comultrasan.csproj.CopyComplete
+E:\DemoComultrasan\obj\Debug\Comultrasan.exe
+E:\DemoComultrasan\obj\Debug\Comultrasan.pdb
+E:\DemoComultrasan\obj\Debug\View\02RegistroRup.g.cs
+E:\DemoComultrasan\obj\Debug\View\02RegistroRup.baml
+E:\DemoComultrasan\obj\Debug\View\04Registro.g.cs
+E:\DemoComultrasan\obj\Debug\View\04Registro.baml
+E:\DemoComultrasan\obj\Debug\View\03RegistroRupHoja2.g.cs
+E:\DemoComultrasan\obj\Debug\View\03RegistroRupHoja2.baml
+E:\DemoComultrasan\obj\Debug\View\04RegistroRupHoja3.g.cs
+E:\DemoComultrasan\obj\Debug\View\04RegistroRupHoja3.baml
+E:\SS4 Defensoria\bin\Debug\NLog.config
+E:\SS4 Defensoria\bin\Debug\WinSCP.exe
+E:\SS4 Defensoria\bin\Debug\Comultrasan.exe.config
+E:\SS4 Defensoria\bin\Debug\Comultrasan.exe
+E:\SS4 Defensoria\bin\Debug\Comultrasan.pdb
+E:\SS4 Defensoria\bin\Debug\Comultrasan.exe.CodeAnalysisLog.xml
+E:\SS4 Defensoria\bin\Debug\Comultrasan.exe.lastcodeanalysissucceeded
+E:\SS4 Defensoria\bin\Debug\MaterialDesignColors.dll
+E:\SS4 Defensoria\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\SS4 Defensoria\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\SS4 Defensoria\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\SS4 Defensoria\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\SS4 Defensoria\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\SS4 Defensoria\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\SS4 Defensoria\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\SS4 Defensoria\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\SS4 Defensoria\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\SS4 Defensoria\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\SS4 Defensoria\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\SS4 Defensoria\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\SS4 Defensoria\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\SS4 Defensoria\bin\Debug\Microsoft.Extensions.Options.dll
+E:\SS4 Defensoria\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\SS4 Defensoria\bin\Debug\Newtonsoft.Json.dll
+E:\SS4 Defensoria\bin\Debug\NLog.dll
+E:\SS4 Defensoria\bin\Debug\Remotion.Linq.dll
+E:\SS4 Defensoria\bin\Debug\Renci.SshNet.dll
+E:\SS4 Defensoria\bin\Debug\Syncfusion.Licensing.dll
+E:\SS4 Defensoria\bin\Debug\Syncfusion.Shared.WPF.dll
+E:\SS4 Defensoria\bin\Debug\System.Buffers.dll
+E:\SS4 Defensoria\bin\Debug\System.Collections.Immutable.dll
+E:\SS4 Defensoria\bin\Debug\System.ComponentModel.Annotations.dll
+E:\SS4 Defensoria\bin\Debug\System.Data.SqlClient.dll
+E:\SS4 Defensoria\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\SS4 Defensoria\bin\Debug\System.Interactive.Async.dll
+E:\SS4 Defensoria\bin\Debug\System.Memory.dll
+E:\SS4 Defensoria\bin\Debug\System.Numerics.Vectors.dll
+E:\SS4 Defensoria\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\SS4 Defensoria\bin\Debug\WinSCPnet.dll
+E:\SS4 Defensoria\bin\Debug\MaterialDesignColors.pdb
+E:\SS4 Defensoria\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\SS4 Defensoria\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\SS4 Defensoria\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\SS4 Defensoria\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+E:\SS4 Defensoria\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\SS4 Defensoria\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\SS4 Defensoria\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\SS4 Defensoria\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\SS4 Defensoria\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\SS4 Defensoria\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\SS4 Defensoria\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\SS4 Defensoria\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\SS4 Defensoria\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\SS4 Defensoria\bin\Debug\Microsoft.Extensions.Options.xml
+E:\SS4 Defensoria\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\SS4 Defensoria\bin\Debug\Newtonsoft.Json.xml
+E:\SS4 Defensoria\bin\Debug\NLog.xml
+E:\SS4 Defensoria\bin\Debug\Remotion.Linq.xml
+E:\SS4 Defensoria\bin\Debug\Renci.SshNet.xml
+E:\SS4 Defensoria\bin\Debug\Syncfusion.Shared.WPF.xml
+E:\SS4 Defensoria\bin\Debug\System.Buffers.xml
+E:\SS4 Defensoria\bin\Debug\System.Collections.Immutable.xml
+E:\SS4 Defensoria\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\SS4 Defensoria\bin\Debug\System.Interactive.Async.xml
+E:\SS4 Defensoria\bin\Debug\System.Memory.xml
+E:\SS4 Defensoria\bin\Debug\System.Numerics.Vectors.xml
+E:\SS4 Defensoria\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\SS4 Defensoria\obj\Debug\Comultrasan.csproj.AssemblyReference.cache
+E:\SS4 Defensoria\obj\Debug\Comultrasan.csproj.ResolveComReference.cache
+E:\SS4 Defensoria\obj\Debug\Teclado\TecladoAlfaNumericoCaracteres.baml
+E:\SS4 Defensoria\obj\Debug\Teclado\TecladoNumerico.baml
+E:\SS4 Defensoria\obj\Debug\MainWindow.g.cs
+E:\SS4 Defensoria\obj\Debug\Teclado\TecladoAlfaNumericoCaracteres.g.cs
+E:\SS4 Defensoria\obj\Debug\Teclado\TecladoNumerico.g.cs
+E:\SS4 Defensoria\obj\Debug\View\000Cargando.g.cs
+E:\SS4 Defensoria\obj\Debug\View\04RegistroRupHoja3.g.cs
+E:\SS4 Defensoria\obj\Debug\View\03RegistroRupHoja2.g.cs
+E:\SS4 Defensoria\obj\Debug\View\82SimulaCredito.g.cs
+E:\SS4 Defensoria\obj\Debug\View\81Video.g.cs
+E:\SS4 Defensoria\obj\Debug\View\80SolicitaCredito.g.cs
+E:\SS4 Defensoria\obj\Debug\View\79Promociones.g.cs
+E:\SS4 Defensoria\obj\Debug\View\78Consultas.g.cs
+E:\SS4 Defensoria\obj\Debug\View\77Ayudas.g.cs
+E:\SS4 Defensoria\obj\Debug\View\75MuestraDatosServicio.g.cs
+E:\SS4 Defensoria\obj\Debug\View\74DigitaServicioPublico.g.cs
+E:\SS4 Defensoria\obj\Debug\View\72SeleccionaConvenio.g.cs
+E:\SS4 Defensoria\obj\Debug\View\73ServiciosPublicos.g.cs
+E:\SS4 Defensoria\obj\Debug\View\71MuestraDatosPago.g.cs
+E:\SS4 Defensoria\obj\Debug\View\70PagoDigita.g.cs
+E:\SS4 Defensoria\obj\Debug\View\69PagoCreditoDigita.g.cs
+E:\SS4 Defensoria\obj\Debug\View\68ExitosaDesembolso.g.cs
+E:\SS4 Defensoria\obj\Debug\View\67HaceDesembolso.g.cs
+E:\SS4 Defensoria\obj\Debug\View\66MuestraDesembolso.g.cs
+E:\SS4 Defensoria\obj\Debug\View\63PagoExitoso.g.cs
+E:\SS4 Defensoria\obj\Debug\View\62ValorPagar.g.cs
+E:\SS4 Defensoria\obj\Debug\View\61MuestraCreditos.g.cs
+E:\SS4 Defensoria\obj\Debug\View\60PagoCredito.g.cs
+E:\SS4 Defensoria\obj\Debug\View\02RegistroRup.g.cs
+E:\SS4 Defensoria\obj\Debug\View\45ValidaImpresora.g.cs
+E:\SS4 Defensoria\obj\Debug\View\31ValidaCodigoBarras.g.cs
+E:\SS4 Defensoria\obj\Debug\View\30TieneCambio.g.cs
+E:\SS4 Defensoria\obj\Debug\View\19MenuTimeOUT.g.cs
+E:\SS4 Defensoria\obj\Debug\View\18Encuesta.g.cs
+E:\SS4 Defensoria\obj\Debug\View\17MenuImpresion.g.cs
+E:\SS4 Defensoria\obj\Debug\View\200ConsultandoPago.g.cs
+E:\SS4 Defensoria\obj\Debug\View\100Consultando.g.cs
+E:\SS4 Defensoria\obj\Debug\View\04Registro.g.cs
+E:\SS4 Defensoria\obj\Debug\View\08FueraDeLinea.g.cs
+E:\SS4 Defensoria\obj\Debug\View\07CancelandoTransaccion.g.cs
+E:\SS4 Defensoria\obj\Debug\View\05PagoExitoso.g.cs
+E:\SS4 Defensoria\obj\Debug\View\16Pagar.g.cs
+E:\SS4 Defensoria\obj\Debug\View\15MuestraValorPagar.g.cs
+E:\SS4 Defensoria\obj\Debug\View\13ValoresPagar.g.cs
+E:\SS4 Defensoria\obj\Debug\View\14DigitaValorPagar.g.cs
+E:\SS4 Defensoria\obj\Debug\View\50DigitarNroTarjeta.g.cs
+E:\SS4 Defensoria\obj\Debug\View\30OpcionesAdmin.g.cs
+E:\SS4 Defensoria\obj\Debug\View\40IngresoAdmin.g.cs
+E:\SS4 Defensoria\obj\Debug\View\20DigitarNroCliente.g.cs
+E:\SS4 Defensoria\obj\Debug\View\12MenuPagos.g.cs
+E:\SS4 Defensoria\obj\Debug\View\Componentes\EntregandoCambio.g.cs
+E:\SS4 Defensoria\obj\Debug\View\Componentes\Factura.g.cs
+E:\SS4 Defensoria\obj\Debug\View\11DetallePagoFactura.g.cs
+E:\SS4 Defensoria\obj\Debug\View\00Base.g.cs
+E:\SS4 Defensoria\obj\Debug\View\09Ayuda.g.cs
+E:\SS4 Defensoria\obj\Debug\View\Componentes\MiniCargando.g.cs
+E:\SS4 Defensoria\obj\Debug\View\Componentes\Consultando.g.cs
+E:\SS4 Defensoria\obj\Debug\View\01MenuPrincipal.g.cs
+E:\SS4 Defensoria\obj\Debug\View\10LeerCodigobarras.g.cs
+E:\SS4 Defensoria\obj\Debug\App.g.cs
+E:\SS4 Defensoria\obj\Debug\Comultrasan_Content.g.cs
+E:\SS4 Defensoria\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\SS4 Defensoria\obj\Debug\Comultrasan_MarkupCompile.cache
+E:\SS4 Defensoria\obj\Debug\Comultrasan_MarkupCompile.lref
+E:\SS4 Defensoria\obj\Debug\App.baml
+E:\SS4 Defensoria\obj\Debug\MainWindow.baml
+E:\SS4 Defensoria\obj\Debug\View\000Cargando.baml
+E:\SS4 Defensoria\obj\Debug\View\04RegistroRupHoja3.baml
+E:\SS4 Defensoria\obj\Debug\View\03RegistroRupHoja2.baml
+E:\SS4 Defensoria\obj\Debug\View\82SimulaCredito.baml
+E:\SS4 Defensoria\obj\Debug\View\81Video.baml
+E:\SS4 Defensoria\obj\Debug\View\80SolicitaCredito.baml
+E:\SS4 Defensoria\obj\Debug\View\79Promociones.baml
+E:\SS4 Defensoria\obj\Debug\View\78Consultas.baml
+E:\SS4 Defensoria\obj\Debug\View\77Ayudas.baml
+E:\SS4 Defensoria\obj\Debug\View\75MuestraDatosServicio.baml
+E:\SS4 Defensoria\obj\Debug\View\74DigitaServicioPublico.baml
+E:\SS4 Defensoria\obj\Debug\View\72SeleccionaConvenio.baml
+E:\SS4 Defensoria\obj\Debug\View\73ServiciosPublicos.baml
+E:\SS4 Defensoria\obj\Debug\View\71MuestraDatosPago.baml
+E:\SS4 Defensoria\obj\Debug\View\70PagoDigita.baml
+E:\SS4 Defensoria\obj\Debug\View\69PagoCreditoDigita.baml
+E:\SS4 Defensoria\obj\Debug\View\68ExitosaDesembolso.baml
+E:\SS4 Defensoria\obj\Debug\View\67HaceDesembolso.baml
+E:\SS4 Defensoria\obj\Debug\View\66MuestraDesembolso.baml
+E:\SS4 Defensoria\obj\Debug\View\63PagoExitoso.baml
+E:\SS4 Defensoria\obj\Debug\View\62ValorPagar.baml
+E:\SS4 Defensoria\obj\Debug\View\61MuestraCreditos.baml
+E:\SS4 Defensoria\obj\Debug\View\60PagoCredito.baml
+E:\SS4 Defensoria\obj\Debug\View\02RegistroRup.baml
+E:\SS4 Defensoria\obj\Debug\View\45ValidaImpresora.baml
+E:\SS4 Defensoria\obj\Debug\View\31ValidaCodigoBarras.baml
+E:\SS4 Defensoria\obj\Debug\View\30TieneCambio.baml
+E:\SS4 Defensoria\obj\Debug\View\19MenuTimeOUT.baml
+E:\SS4 Defensoria\obj\Debug\View\18Encuesta.baml
+E:\SS4 Defensoria\obj\Debug\View\17MenuImpresion.baml
+E:\SS4 Defensoria\obj\Debug\View\200ConsultandoPago.baml
+E:\SS4 Defensoria\obj\Debug\View\100Consultando.baml
+E:\SS4 Defensoria\obj\Debug\View\04Registro.baml
+E:\SS4 Defensoria\obj\Debug\View\08FueraDeLinea.baml
+E:\SS4 Defensoria\obj\Debug\View\07CancelandoTransaccion.baml
+E:\SS4 Defensoria\obj\Debug\View\05PagoExitoso.baml
+E:\SS4 Defensoria\obj\Debug\View\16Pagar.baml
+E:\SS4 Defensoria\obj\Debug\View\15MuestraValorPagar.baml
+E:\SS4 Defensoria\obj\Debug\View\13ValoresPagar.baml
+E:\SS4 Defensoria\obj\Debug\View\14DigitaValorPagar.baml
+E:\SS4 Defensoria\obj\Debug\View\50DigitarNroTarjeta.baml
+E:\SS4 Defensoria\obj\Debug\View\30OpcionesAdmin.baml
+E:\SS4 Defensoria\obj\Debug\View\40IngresoAdmin.baml
+E:\SS4 Defensoria\obj\Debug\View\20DigitarNroCliente.baml
+E:\SS4 Defensoria\obj\Debug\View\12MenuPagos.baml
+E:\SS4 Defensoria\obj\Debug\View\Componentes\EntregandoCambio.baml
+E:\SS4 Defensoria\obj\Debug\View\Componentes\Factura.baml
+E:\SS4 Defensoria\obj\Debug\View\11DetallePagoFactura.baml
+E:\SS4 Defensoria\obj\Debug\View\00Base.baml
+E:\SS4 Defensoria\obj\Debug\View\09Ayuda.baml
+E:\SS4 Defensoria\obj\Debug\View\Componentes\MiniCargando.baml
+E:\SS4 Defensoria\obj\Debug\View\Componentes\Consultando.baml
+E:\SS4 Defensoria\obj\Debug\View\01MenuPrincipal.baml
+E:\SS4 Defensoria\obj\Debug\View\10LeerCodigobarras.baml
+E:\SS4 Defensoria\obj\Debug\Comultrasan.g.resources
+E:\SS4 Defensoria\obj\Debug\Enel.Properties.Resources.resources
+E:\SS4 Defensoria\obj\Debug\Comultrasan.csproj.GenerateResource.cache
+E:\SS4 Defensoria\obj\Debug\Comultrasan.csproj.CoreCompileInputs.cache
+E:\SS4 Defensoria\obj\Debug\Comultrasan.csproj.CopyComplete
+E:\SS4 Defensoria\obj\Debug\Comultrasan.exe
+E:\SS4 Defensoria\obj\Debug\Comultrasan.pdb
+E:\SS4 Defensoria\obj\Debug\View\05DescripcionHechos.g.cs
+E:\SS4 Defensoria\obj\Debug\View\05DescripcionHechos.baml
+E:\SS4 Defensoria\obj\Debug\View\07Escaneo.g.cs
+E:\SS4 Defensoria\obj\Debug\View\07Escaneo.baml
+E:\SS4 Defensoria\obj\Debug\View\06LugarHechos.g.cs
+E:\SS4 Defensoria\obj\Debug\View\06LugarHechos.baml
+E:\SS4 Defensoria\obj\Debug\Interop.WIA.dll
+E:\SS4 Defensoria\bin\Debug\log4net.dll
+E:\SS4 Defensoria\bin\Debug\TwainDotNet.dll
+E:\SS4 Defensoria\bin\Debug\TwainDotNet.WinFroms.dll
+E:\SS4 Defensoria\bin\Debug\TwainDotNet.Wpf.dll
+E:\SS4 Defensoria\bin\Debug\Interop.WIA.dll
+E:\SS4 Defensoria\bin\Debug\itext.barcodes.dll
+E:\SS4 Defensoria\bin\Debug\itext.forms.dll
+E:\SS4 Defensoria\bin\Debug\itext.io.dll
+E:\SS4 Defensoria\bin\Debug\itext.kernel.dll
+E:\SS4 Defensoria\bin\Debug\itext.layout.dll
+E:\SS4 Defensoria\bin\Debug\itext.pdfa.dll
+E:\SS4 Defensoria\bin\Debug\itext.sign.dll
+E:\SS4 Defensoria\bin\Debug\itext.barcodes.xml
+E:\SS4 Defensoria\bin\Debug\itext.forms.xml
+E:\SS4 Defensoria\bin\Debug\itext.io.xml
+E:\SS4 Defensoria\bin\Debug\itext.kernel.xml
+E:\SS4 Defensoria\bin\Debug\itext.layout.xml
+E:\SS4 Defensoria\bin\Debug\itext.pdfa.xml
+E:\SS4 Defensoria\bin\Debug\itext.sign.xml
+E:\SS4 Defensoria\obj\Debug\TwainGui.EscaneoForm.resources
+E:\SS4 Defensoria\obj\Debug\TwainGui.InfoForm.resources
+E:\SS4 Defensoria\obj\Debug\TwainGui.PicForm.resources

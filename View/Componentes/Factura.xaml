@@ -1,0 +1,43 @@
+﻿<Window x:Class="FacturasEnel.View.Componentes.Factura"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FacturasEnel.View.Componentes"
+        mc:Ignorable="d"
+        Title="" Height="410" Width="277">
+    <Canvas Name="CanvasImpresion" Margin="0,0,0,0">
+        <Grid Width="280" Height="90">
+            <Image x:Name="logo" Width="280" Height="90" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" />
+        </Grid>
+        <Grid Height="501" Width="280" Canvas.Top="90">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="220*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="302*"/>
+            </Grid.ColumnDefinitions>
+            <Label x:Name="LTitulo" Content="Financiera" HorizontalContentAlignment="center" Margin="0,0,10,478" Padding="0" FontSize="16" FontWeight="Bold"/>
+            <Label x:Name="LTitulo1" Content="Comultransan" HorizontalContentAlignment="Center" Margin="1,15,5,463" Padding="0" FontSize="16" FontWeight="Bold"/>
+            <Label x:Name="LTitulo2" Content="Es posible" HorizontalContentAlignment="center" Margin="-1,28,7,450" Padding="0" FontSize="16" FontWeight="Bold"/>
+            <Label x:Name="LFecha" Content="FECHA (NOV 18 2019 09:16:57)" HorizontalContentAlignment="Left"  Margin="10,70,0,416" Padding="0" FontSize="11"/>
+            <Label x:Name="LCorresponsal" Content="KIOSCO RECAUDADOR" HorizontalContentAlignment="left" Margin="10,87,0,399" Padding="0" FontSize="11"/>
+
+            <Label x:Name="Lfactura" Content="FACTURA" HorizontalAlignment="Left" Margin="10,120,0,0"  Padding="0" VerticalAlignment="Top" FontSize="11"/>
+            <Label x:Name="LfacturaValor" Content="56456456456" Margin="110,120,10,0" VerticalAlignment="Top" HorizontalContentAlignment="Left" Padding="0" Width="155" FontSize="11"/>
+            <Label x:Name="LNroCliente" Content="CLIENTE:" HorizontalAlignment="Left" Margin="10,137,0,0"  Padding="0" VerticalAlignment="Top" FontSize="11"/>
+            <Label x:Name="LNroClienteValor" Content="Pepito perez" FontWeight ="Bold"  Margin="112,137,12,0" VerticalAlignment="Top" HorizontalContentAlignment="left" Padding="0" Width="155" FontSize="10"  />
+            <Label x:Name="LValorPagar" Content="CANTIDAD INGRESADA:" HorizontalAlignment="Left" Margin="10,198,0,0" VerticalAlignment="Top" Padding="0" FontSize="11"/>
+            <Label x:Name="LValorPagarValor" Content="$ 237.000" HorizontalContentAlignment="Right" Margin="0,198,32,0" VerticalAlignment="Top" Width="79" HorizontalAlignment="Right" Padding="0" FontSize="11" />
+            <Label x:Name="LTotalPago" Content="CAMBIO ENTREGADO:" HorizontalAlignment="Left" Margin="10,216,0,0" VerticalAlignment="Top" Padding="0" FontSize="11"/>
+            <Label x:Name="LValorRecibido" Content="$ 238.000" HorizontalContentAlignment="Right" Margin="0,216,32,0" VerticalAlignment="Top" Width="79" HorizontalAlignment="Right" Padding="0" FontSize="11" />
+            <!--<Label x:Name="Lrrn" Content="RRN" HorizontalAlignment="Left" Margin="10,212,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+            <Label x:Name="LRRNValor" Content=" " HorizontalAlignment="Left" Margin="73,213,0,0" VerticalAlignment="Top" Grid.Column="1"/>-->
+            <Label x:Name="LNoCIn" Content="Por favor conserve este comprobante" HorizontalContentAlignment="Center" Margin="0,257,0,223" Padding="0" FontSize="10" FontWeight="Bold" />
+            <Label x:Name="Lcomprobante" Content="NÚMERO AUTORIZACIÓN :" HorizontalAlignment="Left" Margin="10,235,0,0" VerticalAlignment="Top" Padding="0" FontSize="11"/>
+            <Label x:Name="LcomprobanteValor" Content="$ 238.000" HorizontalContentAlignment="Right" Margin="0,235,32,0" VerticalAlignment="Top" Width="79" HorizontalAlignment="Right" Padding="0" FontSize="11" />
+            <Label x:Name="LValorPagarFactura" Content="VALOR PAGO:" HorizontalAlignment="Left" Margin="10,180,0,0" VerticalAlignment="Top" Padding="0" FontSize="11"/>
+            <Label x:Name="LValorPagarValorFactura" Content="$ 237.000" HorizontalContentAlignment="Right" Margin="0,180,32,0" VerticalAlignment="Top" Width="79" HorizontalAlignment="Right" Padding="0" FontSize="11" />
+        </Grid>
+    </Canvas>
+</Window>

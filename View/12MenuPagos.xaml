@@ -1,0 +1,35 @@
+﻿<Page x:Class="FacturasEnel.View.PageMenuPago"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FacturasEnel.View"
+      xmlns:contr="clr-namespace:Library;assembly=Library"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      xmlns:Controles="clr-namespace:FacturasEnel.View.Componentes"
+      Stylus.IsFlicksEnabled="False"
+      Loaded="Page_Loaded"
+      Unloaded="Page_Unloaded"
+      Title="Page_MenuPagar">
+
+    <Canvas Margin="0,0,0,0" Height="768" Width="1024" x:Name="Fondo">
+        <Label Name="LblReferencia" />
+        <Label Name="LblValorPagar" Foreground="red" />
+        <Label Name="LblValorIngresado" Foreground="#8b1e6d"  />
+        <Label Name="LblRestan" Foreground="#DDF39206" />
+        <Image Name="btnCancelar" Tag="Cancelar" MouseDown="Botones_MouseDown" />
+        <Image Name="btnAceptar" Tag="Aceptar" MouseDown="Botones_MouseDown" />
+        <!--<contr:FlashPlayer x:Name="Recepcion" Visibility="Hidden" Height="20" Width="20" Background="Transparent"/>-->
+        <Label Name="LblCambio" SizeChanged="LblCambio_SizeChanged"  />
+        <Image Name="IMensaje" Visibility="Hidden"/>
+        <Label Name="LblMensajeCambio" Foreground="black" Visibility="Hidden"/>
+        <Image Name="ProcesarImage" Visibility="Hidden"></Image>
+        <Image Name="btnProcesar" Tag="Procesar"  MouseDown="Botones_MouseDown" Visibility="Hidden"/>
+        <Image Name="btnProcesarCancelar3" Tag="Cancelar3" MouseDown="Botones_MouseDown" Visibility="Hidden"/>
+        <Label Name="LblCambioM" Foreground="red" />
+        <Image Name="Finaliza" Visibility="Hidden"/>
+        <Image Name="CancelarImage" Visibility="Hidden"></Image>
+        <Image Name="btnContinuar" Tag="Continuar"  MouseDown="Botones_MouseDown" Visibility="Hidden"/>
+        <Image Name="btnCancelar2" Tag="Cancelar2" MouseDown="Botones_MouseDown" Visibility="Hidden"/>
+    </Canvas>
+</Page>

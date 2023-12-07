@@ -1,0 +1,60 @@
+﻿<Page x:Class="FacturasEnel.View.PageIngresoAdmin"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FacturasEnel.View"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      xmlns:Controles="clr-namespace:FacturasEnel.View.Componentes"
+      xmlns:Teclados="clr-namespace:FacturasEnel.Teclado"
+      Stylus.IsFlicksEnabled="False" Loaded="Page_Loaded" Unloaded="Page_Unloaded"
+      Title="Menú Ingreso Admin">
+
+    <Canvas Margin="0,0,0,0" Height="768" Width="1024">
+        <Image Name="btnMenuPrincipal" Tag="MenuPrincipal" MouseDown="Botones_MouseDown"/>
+        <Image Name="btnIngresar" Tag="Ingresar" MouseDown="Botones_MouseDown"/>
+        <TextBox Name="TxtUsuario" MaxLength="10" PreviewMouseDown="TextBox_PreviewMouseDown" TextChanged="TextBox_TextChanged" BorderThickness="0" />
+        <PasswordBox Name="TxtPassword" MaxLength="10" PreviewMouseDown="TextBox_PreviewMouseDown" PasswordChanged="TxtPassword_PasswordChanged" BorderThickness="0" />
+        <Controles:Consultando x:Name="Consultando" Visibility="Collapsed" ></Controles:Consultando>
+        <Teclados:TecladoAlfaNumericoCaracteres x:Name="Teclado" Visibility="Visible" ></Teclados:TecladoAlfaNumericoCaracteres>
+
+        <materialDesign:DialogHost x:Name="Mensajes" IsOpen="false" Margin="0,0,0,0" Visibility="Visible">
+            <materialDesign:DialogHost.DialogContent>
+                <StackPanel Height="Auto" Width="Auto" MaxWidth="1000" MinWidth="700">
+                    <TextBlock x:Name="txt_Error_Titulo" FontSize="40" HorizontalAlignment="Center" Margin="0,15,0,0" FontWeight="Bold" 
+                               Foreground="{StaticResource AzulBordeExterior}"
+                               >
+                    </TextBlock>
+                    <TextBlock x:Name="txt_Error_Campos" TextWrapping="Wrap" FontSize="30" Margin="20" Foreground="Gray" HorizontalAlignment="Center">
+                    </TextBlock>
+
+                    <Button 
+                        Name="Btn_AceptoErrores"
+                        Style="{StaticResource btn_Template}"
+                        IsCancel="True"
+                        Command="{x:Static materialDesign:DialogHost.CloseDialogCommand}"
+                        CommandParameter="Sample2Cancel"
+                        HorizontalAlignment="Center"
+                        Margin="20"
+                        Content="Aceptar"
+                        Click="Btn_AceptoErrores_Click">
+                    </Button>
+                </StackPanel>
+            </materialDesign:DialogHost.DialogContent>
+        </materialDesign:DialogHost>
+
+        <!--<Image Name="btn0" Tag="0" MouseDown="Botones_MouseDown"/>
+        <Image Name="btn1" Tag="1" MouseDown="Botones_MouseDown"/>
+        <Image Name="btn2" Tag="2" MouseDown="Botones_MouseDown"/>
+        <Image Name="btn3" Tag="3" MouseDown="Botones_MouseDown"/>
+        <Image Name="btn4" Tag="4" MouseDown="Botones_MouseDown"/>
+        <Image Name="btn5" Tag="5" MouseDown="Botones_MouseDown"/>
+        <Image Name="btn6" Tag="6" MouseDown="Botones_MouseDown"/>
+        <Image Name="btn7" Tag="7" MouseDown="Botones_MouseDown"/>
+        <Image Name="btn8" Tag="8" MouseDown="Botones_MouseDown"/>
+        <Image Name="btn9" Tag="9" MouseDown="Botones_MouseDown"/>
+        <Image Name="btnBorrar" Tag="Borrar" MouseDown="Botones_MouseDown"/>
+        <Image Name="btnLimpiar" Tag="Limpiar" MouseDown="Botones_MouseDown"/>-->
+    </Canvas>
+
+</Page>

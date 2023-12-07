@@ -1,0 +1,55 @@
+﻿<Page x:Class="FacturasEnel.View.PageMenuImpresion"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FacturasEnel.View"
+      xmlns:contr="clr-namespace:Library;assembly=Library"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      xmlns:Controles="clr-namespace:FacturasEnel.View.Componentes"
+      Stylus.IsFlicksEnabled="False"
+      Loaded="Page_Loaded"
+      Unloaded="Page_Unloaded"
+      Title="Page_MenuImpresion">
+
+    <Canvas Margin="0,0,0,0" Height="768" Width="1024">
+        <Image Name="btnImprimir" Tag="Imprimir" MouseDown="Botones_MouseDown" />
+        <Image Name="btnFinalizar" Tag="Finalizar" MouseDown="Botones_MouseDown" />
+        <Image Name="Imprime" Visibility="Hidden"/>
+        <Image Margin="0,0,1024,768" Name="IError" />
+        <Image Name="Consultando1" Visibility="Hidden"/>        
+
+        <!--<contr:FlashPlayer x:Name="Recepcion" Visibility="Hidden" Height="20" Width="20" Background="Transparent"/>-->
+ 
+        <materialDesign:DialogHost x:Name="Mensajes" IsOpen="false" Margin="0,0,0,0" Visibility="Visible">
+            <materialDesign:DialogHost.DialogContent>
+                <StackPanel Height="Auto" Width="Auto" MaxWidth="1000" MinWidth="700">
+                    <TextBlock x:Name="txt_Error_Titulo" FontSize="40" HorizontalAlignment="Center" Margin="0,15,0,0" FontWeight="Bold" 
+                               Foreground="{StaticResource AzulBordeExterior}"
+                               >
+                    </TextBlock>
+                    <TextBlock x:Name="txt_Error_Campos" TextWrapping="Wrap" FontSize="30" Margin="20" Foreground="Gray" HorizontalAlignment="Center">
+                    </TextBlock>
+
+                    <Button 
+                        Name="btn_AceptoErrores"
+                        Style="{StaticResource btn_Template}"
+                        IsCancel="True"
+                        Command="{x:Static materialDesign:DialogHost.CloseDialogCommand}"
+                        CommandParameter="Sample2Cancel"
+                        HorizontalAlignment="Center"
+                        Margin="20"
+                        Content="Aceptar"
+                        Click="Btn_AceptoErrores_Click"
+                        >
+                    </Button>
+                </StackPanel>
+            </materialDesign:DialogHost.DialogContent>
+        </materialDesign:DialogHost>
+
+        <!--<Button x:Name="btnImprimir" Tag="Imprimir" Click="ImprimirClick" Visibility="Hidden"></Button>
+
+        <Button x:Name="btnPagar" Content="Simular Pago"  Tag="Pagar" Click="ImprimirClick" Visibility="Hidden"></Button>-->
+
+    </Canvas>
+</Page>

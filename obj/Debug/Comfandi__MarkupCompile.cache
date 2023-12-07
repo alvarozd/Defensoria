@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\App.xaml
-13930845910
+221631733530
 
-231589562104
-17283678398
-MainWindow.xaml;Teclado\TecladoNumericoLogin.xaml;View\Componentes\ActualizarDatos.xaml;View\Componentes\ConsultaPreAprobado.xaml;View\Componentes\ConsultaSaldo.xaml;View\Componentes\ConsultaUltimoPago.xaml;View\Componentes\ImprimirCredito.xaml;View\Componentes\ImprimirPreliquidacion.xaml;View\Componentes\ImprimirTarjetaComfandi.xaml;View\Page_Autenticacion.xaml;View\Page_Principal.xaml;View\Page_Servicios.xaml;View\Page_Servicio_Componente.xaml;
+42607119757
+26-1470164458
+MainWindow.xaml;Teclado\TecladoAlfa.xaml;Teclado\TecladoNumerico.xaml;Teclado\TecladoNumericoLogin.xaml;View\Componentes\ActualizarDatos.xaml;View\Componentes\Boton_Confirmacion.xaml;View\Componentes\Cargando.xaml;View\Componentes\ConsultaPreAprobado.xaml;View\Componentes\ConsultaSaldo.xaml;View\Componentes\ConsultaUltimoPago.xaml;View\Componentes\CanvasImpresion.xaml;View\Componentes\Componente_Departamento.xaml;View\Componentes\ImprimirCredito.xaml;View\Componentes\ImprimirPreliquidacion.xaml;View\Componentes\ImprimirTarjetaComfandi.xaml;View\Componentes\Lb_Impresion_Superior.xaml;View\Componentes\Lb_Impresion.xaml;View\Componentes\Lb_Titulo.xaml;View\Page_Autenticacion.xaml;View\Page_Turnos.xaml;View\Page_Servicios.xaml;View\Page_Servicio_Componente.xaml;
 
 False
 

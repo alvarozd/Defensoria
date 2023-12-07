@@ -1,0 +1,60 @@
+2023-12-07 09:03:17.6481 INFO INICIANDO APLICACIÓN
+2023-12-07 09:03:17.9762 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-07 09:03:18.9293 INFO MENÚ PRINCIPAL CARGADO
+2023-12-07 09:03:18.9293 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-07 09:03:41.4514 ERROR EstablecerImagenes
+2023-12-07 09:04:33.1898 INFO INICIANDO APLICACIÓN
+2023-12-07 09:04:33.4999 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-07 09:04:34.1579 INFO MENÚ PRINCIPAL CARGADO
+2023-12-07 09:04:34.1579 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-07 09:07:28.7623 INFO 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - -TRANSACCIÓN FINALIZADA POR TIEMPO- - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+2023-12-07 09:07:29.8386 INFO MENÚ PRINCIPAL CARGADO
+2023-12-07 09:07:29.8386 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-07 09:07:30.5081 ERROR InsertarDetalleTransaccionAsyncSinEspera
+2023-12-07 09:07:30.5081 INFO Método: InsertarDetalleTransaccion.
+2023-12-07 09:07:30.5081 INFO Información no insertada: id_transaccion: 0, id_tran_vcash: 0, detalle: Tiempo de inactividad cumplido, valor: 0, estado: Transacción cancelada.
+2023-12-07 09:09:25.6340 INFO INICIANDO APLICACIÓN
+2023-12-07 09:09:26.3767 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-07 09:09:27.2343 INFO MENÚ PRINCIPAL CARGADO
+2023-12-07 09:09:27.2343 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-07 10:13:41.0191 INFO INICIANDO APLICACIÓN
+2023-12-07 10:13:41.2819 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-07 10:13:42.0372 INFO MENÚ PRINCIPAL CARGADO
+2023-12-07 10:13:42.0372 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-07 10:13:46.3997 INFO CERRANDO VENTANA PRINCIPAL, sender: FacturasEnel.MainWindow
+2023-12-07 10:13:46.4335 INFO CERRANDO APLICACIÓN, sender: FacturasEnel.App, e:0
+2023-12-07 10:56:22.2789 INFO INICIANDO APLICACIÓN
+2023-12-07 10:56:22.5007 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-07 11:09:58.5655 INFO INICIANDO APLICACIÓN
+2023-12-07 11:09:58.8011 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-07 11:09:59.5926 INFO MENÚ PRINCIPAL CARGADO
+2023-12-07 11:09:59.5926 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-07 11:10:27.8420 INFO INICIANDO APLICACIÓN
+2023-12-07 11:10:28.0278 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-07 11:10:28.5890 INFO MENÚ PRINCIPAL CARGADO
+2023-12-07 11:10:28.5890 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-07 11:12:38.8287 INFO INICIANDO APLICACIÓN
+2023-12-07 11:12:39.1026 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-07 11:12:39.6482 INFO MENÚ PRINCIPAL CARGADO
+2023-12-07 11:12:39.6482 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-07 11:12:50.2320 INFO INICIANDO APLICACIÓN
+2023-12-07 11:12:50.4519 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-07 11:12:51.2034 INFO MENÚ PRINCIPAL CARGADO
+2023-12-07 11:12:51.2034 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-07 11:14:20.4798 INFO INICIANDO APLICACIÓN
+2023-12-07 11:14:20.6589 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-07 11:14:21.2516 INFO MENÚ PRINCIPAL CARGADO
+2023-12-07 11:14:21.2526 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-07 11:16:16.0184 INFO CERRANDO VENTANA PRINCIPAL, sender: FacturasEnel.MainWindow
+2023-12-07 11:16:16.0604 INFO CERRANDO APLICACIÓN, sender: FacturasEnel.App, e:0
+2023-12-07 11:20:58.1142 INFO INICIANDO APLICACIÓN
+2023-12-07 11:20:58.4892 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-07 11:20:59.4735 INFO MENÚ PRINCIPAL CARGADO
+2023-12-07 11:20:59.4735 INFO Valida si se tiene la base de para poder dar cambio o no
+2023-12-07 11:37:05.7748 INFO INICIANDO APLICACIÓN
+2023-12-07 11:37:06.3225 ERROR Error en la consulta del archivo de configuración Kiosco BAZ
+2023-12-07 11:37:07.0725 INFO MENÚ PRINCIPAL CARGADO
+2023-12-07 11:37:07.0725 INFO Valida si se tiene la base de para poder dar cambio o no

@@ -1,0 +1,153 @@
+﻿<UserControl x:Class="FacturasEnel.Teclado.TecladoAlfa"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             >
+    <UserControl.Resources>
+        <SolidColorBrush x:Key="AzulBordeExterior" Color="#224C96"/>
+        <SolidColorBrush x:Key="AzulInteriorSuperior" Color="#ED1C24"/>
+        <SolidColorBrush x:Key="AzulInteriorInferior" Color="#ED1C24"/>
+        <SolidColorBrush x:Key="ColorLetras" Color="White"/>
+
+        <Style TargetType="{x:Type StackPanel}" x:Key="MargenColumnas">
+            <Setter Property="Margin" Value="3,0,0,0"/>
+        </Style>
+
+        <!--Definición de Estilo para los botones del Teclado-->
+        <Style TargetType="Button" x:Key="TabButtonLast">
+            <Setter Property="Width" Value="70" />
+            <Setter Property="Height" Value="70"/>
+            <Setter Property="FontSize" Value="40"/>
+            <Setter Property="Margin" Value="0,3,0,0"/>
+            <Setter Property="BorderBrush" Value="{StaticResource AzulBordeExterior}"/>
+            <Setter Property="Foreground" Value="{StaticResource ColorLetras}"/>
+            <Setter Property="BorderThickness" Value="2,2,2,5"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Background">
+                <Setter.Value>
+                    <LinearGradientBrush  StartPoint="0,0" EndPoint="0,1">
+                        <GradientStop Color="{Binding Source={StaticResource AzulInteriorSuperior},Path=Color}" Offset="0.3"/>
+                        <GradientStop Color="{Binding Source={StaticResource AzulInteriorInferior},Path=Color}" Offset="0.445"/>
+                    </LinearGradientBrush>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border x:Name="Border" CornerRadius="10,10,10,10" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" ContentTemplate="{TemplateBinding ContentTemplate}" Content="{TemplateBinding Content}" />
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True" >
+                                <Setter Property="Background" Value="{StaticResource ColorLetras}" TargetName="Border" />
+                                <Setter Property="BorderBrush" Value="{StaticResource AzulBordeExterior}" TargetName="Border" />
+                                <Setter Property= "TextBlock.FontSize" Value="45"/>
+                                <Setter Property="FontWeight" Value="Bold"/>
+                                <Setter Property="Foreground" Value="{StaticResource AzulBordeExterior}"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter Property="Background" Value="{StaticResource ColorLetras}" TargetName="Border" />
+                                <Setter Property="BorderBrush" Value="{StaticResource AzulBordeExterior}" TargetName="Border" />
+                                <Setter Property="FontWeight" Value="Bold"/>
+                                <Setter Property="BorderThickness" Value="4,4,4,7"/>
+                                <Setter Property= "TextBlock.FontSize" Value="45"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+    </UserControl.Resources>
+
+
+
+    <Grid VerticalAlignment="Top" Width="Auto" Height="Auto">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel  Grid.Column="0" Grid.Row="0" Style="{StaticResource MargenColumnas}">
+            <Button Content="0" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+            <Button Content="Q" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+            <Button Content="A" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+            <Button Content="Z" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+            <Button Content="#" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" Grid.Row="0" Style="{StaticResource MargenColumnas}">
+            <Button Content="1" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+            <Button Content="W" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+            <Button Content="S" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+            <Button Content="X" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+            <Button Content="-" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+        </StackPanel>
+
+        <StackPanel Grid.Column="2" Grid.Row="0" Style="{StaticResource MargenColumnas}">
+            <Button Content="2" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+            <Button Content="E" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+            <Button Content="D" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+            <Button Content="C" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+        </StackPanel>
+        <StackPanel Grid.Column="3" Grid.Row="0" Style="{StaticResource MargenColumnas}">
+            <Button Content="3" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+            <Button Content="R" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+            <Button Content="F" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+            <Button Content="V" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+            
+            
+        </StackPanel>
+        <StackPanel Grid.Column="4" Grid.Row="0" Style="{StaticResource MargenColumnas}">
+            <Button Content="4" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+            <Button Content="T" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+            <Button Content="G" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+            <Button Content="B" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+        </StackPanel>
+        <StackPanel Grid.Column="5" Grid.Row="0" Style="{StaticResource MargenColumnas}">
+            <Button Content="5" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+            <Button Content="Y" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+            <Button Content="H" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+            <Button Content="N" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+        </StackPanel>
+        <StackPanel Grid.Column="6" Grid.Row="0" Style="{StaticResource MargenColumnas}">
+            <Button Content="6" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+            <Button Content="U" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+            <Button Content="J" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+            <Button Content="M" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+            
+        </StackPanel>
+        <StackPanel Grid.Column="7" Grid.Row="0" Style="{StaticResource MargenColumnas}">
+            <Button Content="7" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+            <Button Content="I" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+            <Button Content="K" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+        </StackPanel>
+        <StackPanel Grid.Column="8" Grid.Row="0" Style="{StaticResource MargenColumnas}">
+            <Button Content="8" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+            <Button Content="O" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+            <Button Content="L" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+            <Button Content="Z" FontFamily="Wingdings 3" Style="{StaticResource TabButtonLast}" Click="Button_Click_1" Margin="-72,3,-73,0" Width="Auto"/>
+        </StackPanel>
+        <StackPanel Grid.Column="9" Grid.Row="0" Style="{StaticResource MargenColumnas}">
+            <Button Content="9" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+            <Button Content="P" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+            <Button Content="Ñ" Style="{StaticResource TabButtonLast}" Click="Button_Click"/>
+            <Button Content="" Style="{StaticResource TabButtonLast}" Click="Button_Click" Visibility="Hidden"/>
+            <Button Content="" Style="{StaticResource TabButtonLast}" Click="Button_Click" Margin="-510,3,0,0" Width="Auto"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

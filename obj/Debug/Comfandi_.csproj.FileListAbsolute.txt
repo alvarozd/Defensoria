@@ -9,12 +9,10 @@ M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\Comfand
 M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\Interop.ShockwaveFlashObjects.dll
 M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\Comfandi_.csproj.ResolveComReference.cache
 M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\MainWindow.g.cs
-M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\View\Page_Principal.g.cs
 M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\App.g.cs
 M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\Comfandi__MarkupCompile.cache
 M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\Comfandi__MarkupCompile.lref
 M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\MainWindow.baml
-M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\View\Page_Principal.baml
 M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\Comfandi_.g.resources
 M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\Comfandi_.Properties.Resources.resources
 M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\Comfandi_.csproj.GenerateResource.Cache
@@ -50,3 +48,96 @@ M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\View\Co
 M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\ImprimirCredito.baml
 M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\ImprimirPreliquidacion.baml
 M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\ImprimirTarjetaComfandi.baml
+M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\Lb_Titulo.g.cs
+M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\Lb_Titulo.baml
+M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\Teclado\TecladoAlfa.baml
+M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\Teclado\TecladoAlfa.g.cs
+M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\Teclado\TecladoNumerico.baml
+M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\Teclado\TecladoNumerico.g.cs
+M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\Boton_Confirmacion.g.cs
+M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\Boton_Confirmacion.baml
+M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\Cargando.g.cs
+M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\Cargando.baml
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\bin\Debug\Comfandi_.exe.config
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\bin\Debug\Comfandi_.exe
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\bin\Debug\Comfandi_.pdb
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\bin\Debug\Library.dll
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\bin\Debug\MaterialDesignColors.dll
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\bin\Debug\stdole.dll
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\Comfandi_.csprojAssemblyReference.cache
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\Comfandi_.csproj.ResolveComReference.cache
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\Teclado\TecladoAlfa.baml
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\Teclado\TecladoNumerico.baml
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\Teclado\TecladoNumericoLogin.baml
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\MainWindow.g.cs
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\Teclado\TecladoAlfa.g.cs
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\Teclado\TecladoNumerico.g.cs
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\Teclado\TecladoNumericoLogin.g.cs
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\ActualizarDatos.g.cs
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\Boton_Confirmacion.g.cs
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\Cargando.g.cs
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\ConsultaPreAprobado.g.cs
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\ConsultaSaldo.g.cs
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\ConsultaUltimoPago.g.cs
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\ImprimirCredito.g.cs
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\ImprimirPreliquidacion.g.cs
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\ImprimirTarjetaComfandi.g.cs
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\Lb_Titulo.g.cs
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\View\Page_Autenticacion.g.cs
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\View\Page_Principal.g.cs
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\View\Page_Servicios.g.cs
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\View\Page_Servicio_Componente.g.cs
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\App.g.cs
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\Comfandi__MarkupCompile.cache
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\Comfandi__MarkupCompile.lref
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\App.baml
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\MainWindow.baml
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\ActualizarDatos.baml
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\Boton_Confirmacion.baml
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\Cargando.baml
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\ConsultaPreAprobado.baml
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\ConsultaSaldo.baml
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\ConsultaUltimoPago.baml
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\ImprimirCredito.baml
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\ImprimirPreliquidacion.baml
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\ImprimirTarjetaComfandi.baml
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\Lb_Titulo.baml
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\View\Page_Autenticacion.baml
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\View\Page_Principal.baml
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\View\Page_Servicios.baml
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\View\Page_Servicio_Componente.baml
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\Comfandi_.g.resources
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\Comfandi_.Properties.Resources.resources
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\Comfandi_.csproj.GenerateResource.cache
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\Comfandi_.csproj.CoreCompileInputs.cache
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\Comfandi_.csproj.CopyComplete
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\Comfandi_.exe
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\obj\Debug\Comfandi_.pdb
+M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\bin\Debug\services.dll
+M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\bin\Debug\services.pdb
+M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\bin\Debug\NLog.dll
+M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\bin\Debug\NLog.xml
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\bin\Debug\NLog.dll
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\bin\Debug\services.dll
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\bin\Debug\NLog.xml
+C:\Users\Breyner\Desktop\Comfandi_Misional\Comfandi_\bin\Debug\services.pdb
+M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\View\Page_Turnos.g.cs
+M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\View\Page_Turnos.baml
+M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\CanvasImpresion.g.cs
+M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\CanvasImpresion.baml
+M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\Lb_Impresion.g.cs
+M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\Lb_Impresion.baml
+M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\Lb_Impresion_Superior.g.cs
+M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\Lb_Impresion_Superior.baml
+M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\bin\Debug\NBarCodes.dll
+M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\bin\Debug\NBarCodes.xml
+M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\Componente_Departamento.g.cs
+M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\View\Componentes\Componente_Departamento.baml

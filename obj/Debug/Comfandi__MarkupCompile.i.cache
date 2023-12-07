@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\obj\Debug\
+D:\ProyectosLimpio\ExitoCarulla\Aplicacion\obj\Debug\
 Comfandi_
 none
 false
 DEBUG;TRACE
-M:\Breyner\Proyectos\Vt - Comfandi\Comfandi_Misional\Comfandi_\App.xaml
-13930845910
+D:\ProyectosLimpio\ExitoCarulla\Aplicacion\App.xaml
+221631733530
 
-27641845747
-17283678398
-MainWindow.xaml;Teclado\TecladoNumericoLogin.xaml;View\Componentes\ActualizarDatos.xaml;View\Componentes\ConsultaPreAprobado.xaml;View\Componentes\ConsultaSaldo.xaml;View\Componentes\ConsultaUltimoPago.xaml;View\Componentes\ImprimirCredito.xaml;View\Componentes\ImprimirPreliquidacion.xaml;View\Componentes\ImprimirTarjetaComfandi.xaml;View\Page_Autenticacion.xaml;View\Page_Principal.xaml;View\Page_Servicios.xaml;View\Page_Servicio_Componente.xaml;
+46808671556
+262104661684
+MainWindow.xaml;Teclado\TecladoAlfa.xaml;Teclado\TecladoNumerico.xaml;Teclado\TecladoNumericoLogin.xaml;View\Componentes\ActualizarDatos.xaml;View\Componentes\Boton_Confirmacion.xaml;View\Componentes\Cargando.xaml;View\Componentes\ConsultaPreAprobado.xaml;View\Componentes\ConsultaSaldo.xaml;View\Componentes\ConsultaUltimoPago.xaml;View\Componentes\CanvasImpresion.xaml;View\Componentes\Componente_Departamento.xaml;View\Componentes\ImprimirCredito.xaml;View\Componentes\ImprimirPreliquidacion.xaml;View\Componentes\ImprimirTarjetaComfandi.xaml;View\Componentes\Lb_Impresion_Superior.xaml;View\Componentes\Lb_Impresion.xaml;View\Componentes\Lb_Titulo.xaml;View\Page_Autenticacion.xaml;View\Page_Turnos.xaml;View\Page_Servicios.xaml;View\Page_Servicio_Componente.xaml;
 
-False
+True
 

@@ -1,0 +1,91 @@
+﻿<Page x:Class="FacturasEnel.View.DescripcionHechos"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FacturasEnel.View"
+      xmlns:Controles="clr-namespace:FacturasEnel.View.Componentes"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      Stylus.IsFlicksEnabled="False"
+      Title="DescripcionHechos" Loaded ="Page_Loaded" Unloaded="Page_Unloaded" >
+
+    <Canvas Margin="0,0,0,0" Width="1280" Height="1024"  >
+
+
+        <Image x:Name="Altocontraste" Tag="altocontraste" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="Zoom" Tag="Zoom" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="Silencio" Tag="silencio" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="Ayuda" Tag="Ayuda" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="AyudaDiscapa" Tag="AyudaDiscapa" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="Siguiente" Tag="Sig" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="Atras" Tag="Atras" MouseDown="Botones_MouseDown"/>
+        
+        <Image x:Name="btn1" Tag="1" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btn2" Tag="2" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btn3" Tag="3" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btn4" Tag="4" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btn5" Tag="5" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btn6" Tag="6" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btn7" Tag="7" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btn8" Tag="8" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btn9" Tag="9" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btn10" Tag="0" MouseDown="Botones_MouseDown"/>
+
+        <Image x:Name="btnQ" Tag="q" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btnW" Tag="w" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btnE" Tag="e" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btnR" Tag="r" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btnT" Tag="t" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btnY" Tag="y" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btnU" Tag="u" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btnI" Tag="i" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btnO" Tag="o" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btnP" Tag="p" MouseDown="Botones_MouseDown"/>
+
+        <Image x:Name="btnA" Tag="a" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btnS" Tag="s" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btnD" Tag="d" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btnF" Tag="f" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btnG" Tag="g" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btnH" Tag="h" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btnJ" Tag="j" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btnK" Tag="k" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btnL" Tag="l" MouseDown="Botones_MouseDown"/>
+
+        <Image x:Name="btnZ" Tag="z" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btnX" Tag="x" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btnC" Tag="c" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btnV" Tag="v" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btnB" Tag="b" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btnN" Tag="n" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btnM" Tag="m" MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btnEspacio" Tag=" " MouseDown="Botones_MouseDown"/>
+        <Image x:Name="btnBorrar" Tag="Borrar" MouseDown="Botones_MouseDown"/>
+
+
+
+
+
+
+        <MediaElement    Width="1280" Height="600" LoadedBehavior="Manual"   Name="Video" Visibility="Collapsed" Canvas.Left="0" Canvas.Top="0" VerticalAlignment="Top" MediaEnded="Video_MediaEnded"/>
+        <materialDesign:DialogHost x:Name="Mensajes" IsOpen="false" Margin="0,0,0,0" Visibility="Visible">
+            <materialDesign:DialogHost.DialogContent>
+                <StackPanel Height="Auto" Width="Auto" MaxWidth="1000" MinWidth="700" >
+                    <TextBlock x:Name="txt_Error_Titulo" FontSize="40" HorizontalAlignment="Center" Margin="0,15,0,0" FontWeight="Bold" 
+                               Foreground="{StaticResource AzulBordeExterior}"
+                               >
+                    </TextBlock>
+                    <TextBlock x:Name="txt_Error_Campos" TextWrapping="Wrap" FontSize="30" Margin="20" Foreground="Gray" HorizontalAlignment="Center">
+                    </TextBlock>
+
+                </StackPanel>
+            </materialDesign:DialogHost.DialogContent>
+        </materialDesign:DialogHost>
+
+        <TextBox Name="TxtNombres"  Width="1000" Height="240" Background="White" Margin="137,300"  BorderThickness="4" AcceptsReturn="True" TextWrapping="Wrap" BorderBrush="#4F4AE3" FontSize="34" FontWeight="Bold"></TextBox>
+        
+      
+       
+  
+    </Canvas>
+</Page>

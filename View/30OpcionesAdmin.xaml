@@ -1,0 +1,113 @@
+﻿<Page x:Class="FacturasEnel.View.PageOpcionesAdmin"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FacturasEnel.View"
+      xmlns:Controles="clr-namespace:FacturasEnel.View.Componentes"
+      xmlns:Teclado="clr-namespace:FacturasEnel.Teclado"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      xmlns:contr="clr-namespace:Library;assembly=Library"
+      Stylus.IsFlicksEnabled="False"
+      Title="Opciones administración"
+      Loaded="Page_Loaded"
+      >
+
+    <Canvas x:Name="Canvas" Margin="0,0,0,0" Height="768" Width="1024">
+        <Image Name="btnVolver" Tag="Volver" MouseDown="Botones_MouseDown"/>
+        <Image Name="btn1" Tag="MenuAdmin" MouseDown="Botones_MouseDown"/>
+        <Image Name="btn2" Tag="Reimpresion" MouseDown="Botones_MouseDown"/>
+        <Image Name="btn3" Tag="Imprimir" MouseDown="Botones_MouseDown"/>
+
+        <DatePicker x:Name="FechaConsulta" Visibility="Hidden" FontSize="30" SelectedDateChanged="FechaConsulta_SelectedDateChanged">
+        </DatePicker>
+
+        <Border x:Name="RecibosView" BorderBrush="Black" BorderThickness="1" Visibility="Hidden">
+        <ListView x:Name="LstRecibos" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Padding="0" Margin="1" Visibility="Visible" materialDesign:ScrollBarAssist.ButtonsVisibility="Visible" materialDesign:ListViewAssist.ListViewItemPadding="1" ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+            <ListView.View>
+                <GridView AllowsColumnReorder="False">
+                    <GridViewColumn Width="80">
+                        <GridViewColumn.HeaderTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="Recibo" Width="80" Margin="-5" Padding="0" HorizontalAlignment="Center" TextAlignment="Center" VerticalAlignment="Center" FontWeight="Bold" FontSize="14"/>
+                            </DataTemplate>
+                        </GridViewColumn.HeaderTemplate>
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                    <TextBlock Text="{Binding idVPS}" Width="80" Height="25" Margin="0,8,0,0" Padding="0" TextBlock.TextAlignment="Center" VerticalAlignment="Center" FontSize="12"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Width="80">
+                        <GridViewColumn.HeaderTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="ID Pago" Width="80" Margin="-5" Padding="0" HorizontalAlignment="Center" TextAlignment="Center" VerticalAlignment="Center" FontWeight="Bold" FontSize="14"/>
+                            </DataTemplate>
+                        </GridViewColumn.HeaderTemplate>
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                    <TextBlock Text="{Binding idVC}" Width="65" Height="25" Margin="0,8,0,0" Padding="0" HorizontalAlignment="Center" TextAlignment="Center" VerticalAlignment="Center" FontSize="12"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Width="90">
+                        <GridViewColumn.HeaderTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="Hora" Width="90" Margin="-5" Padding="0" HorizontalAlignment="Center" TextAlignment="Center" VerticalAlignment="Center" FontWeight="Bold" FontSize="14"/>
+                            </DataTemplate>
+                        </GridViewColumn.HeaderTemplate>
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                    <TextBlock Text="{Binding Hora}" Width="75" Height="25" Margin="0,8,0,0" Padding="0" TextBlock.TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="12"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+
+                    <GridViewColumn Width="100">
+                        <GridViewColumn.HeaderTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="Acción" Width="100" Margin="-5" Padding="0" HorizontalAlignment="Center" TextAlignment="Center" VerticalAlignment="Center" FontWeight="Bold" FontSize="14"/>
+                            </DataTemplate>
+                        </GridViewColumn.HeaderTemplate>
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Image Source="{Binding Boton}" Tag="{Binding NombreArchivo}" Margin="0,2,0,2" MouseDown="BtnPrint_MouseDown" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        </Border>
+        
+        <Image Name="btnAyuda" Tag="Ayuda" MouseDown="Botones_MouseDown"/>
+
+        <materialDesign:DialogHost x:Name="Mensajes" IsOpen="false" Margin="0,0,0,0" Visibility="Visible">
+            <materialDesign:DialogHost.DialogContent>
+                <StackPanel Height="Auto" Width="Auto" MaxWidth="1000" MinWidth="700">
+                    <TextBlock x:Name="txt_Error_Titulo" FontSize="40" HorizontalAlignment="Center" Margin="0,15,0,0" FontWeight="Bold" 
+                               Foreground="{StaticResource AzulBordeExterior}"
+                               >
+                    </TextBlock>
+                    <TextBlock x:Name="txt_Error_Campos" TextWrapping="Wrap" FontSize="30" Margin="20" Foreground="Gray" HorizontalAlignment="Center">
+                    </TextBlock>
+
+                    <Button 
+                        Name="btn_AceptoErrores"
+                        Style="{StaticResource btn_Template}"
+                        IsCancel="True"
+                        Command="{x:Static materialDesign:DialogHost.CloseDialogCommand}"
+                        CommandParameter="Sample2Cancel"
+                        HorizontalAlignment="Center"
+                        Margin="20"
+                        Content="Aceptar"
+                        Click="Btn_AceptoErrores_Click"
+                        >
+                    </Button>
+                </StackPanel>
+            </materialDesign:DialogHost.DialogContent>
+        </materialDesign:DialogHost>
+        <!--<Controles:Consultando x:Name="Consultando" Visibility="Collapsed"/>-->
+
+    </Canvas>
+</Page>
